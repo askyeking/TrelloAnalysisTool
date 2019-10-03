@@ -1,4 +1,4 @@
-## Event Tracker Project
+## Trello Analysis Tool
 
 #### Technologies Used
 
