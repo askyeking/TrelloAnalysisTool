@@ -15,6 +15,19 @@ public class TrelloDir {
 		List<TrelloCsvFile> result = new ArrayList<>();
 		
 		// ToDo: Write the code for this method here.
+
+		/* An idea from StackOverflow
+		File folder = new File("your/path");
+		File[] listOfFiles = folder.listFiles();
+
+		for (int i = 0; i < listOfFiles.length; i++) {
+			if (listOfFiles[i].isFile()) {
+				System.out.println("File " + listOfFiles[i].getName());
+			} else if (listOfFiles[i].isDirectory()) {
+				System.out.println("Directory " + listOfFiles[i].getName());
+			}
+		}
+		*/
 		
 		return result;
 	}
