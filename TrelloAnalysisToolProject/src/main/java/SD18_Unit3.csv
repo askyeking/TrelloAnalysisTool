@@ -1,0 +1,161 @@
+Card ID,Card Name,Card URL,Card Description,Labels,Members,Due Date,Attachment Count,Attachment Links,Checklist Item Total Count,Checklist Item Completed Count,Vote Count,Comment Count,Last Activity Date,List ID,List Name,Board ID,Board Name,Archived
+5c2fa22b79a1fb363f1fecd4,Spring Boot,https://trello.com/c/5YacfC53/13-spring-boot,,Rob (green),,,0,,0,0,0,0,2019-01-10T20:44:35.567Z,5c2fa22b79a1fb363f1feca8,Day 1 - Mon 1/21,5c2fa22b79a1fb363f1feca7,Unit3Schedule - SD18,true
+5c2fa22b79a1fb363f1fecd6,Introduction to RESTful Services (rest),https://trello.com/c/NcD0RR5L/15-introduction-to-restful-services-rest,,Rob (green),,,0,,0,0,0,0,2019-01-04T18:12:59.856Z,5c2fa22b79a1fb363f1feca8,Day 1 - Mon 1/21,5c2fa22b79a1fb363f1feca7,Unit3Schedule - SD18,false
+5c2fa22b79a1fb363f1fecd7,Spring REST (rest),https://trello.com/c/OC3YdDRf/16-spring-rest-rest,"Project Config
+Controller Config",Rob (green),,,0,,0,0,0,0,2019-01-04T18:12:59.862Z,5c2fa22b79a1fb363f1feca8,Day 1 - Mon 1/21,5c2fa22b79a1fb363f1feca7,Unit3Schedule - SD18,false
+5c2fa22b79a1fb363f1fecda,Data Serialization (rest),https://trello.com/c/F2BqXCNf/19-data-serialization-rest,"POJO to JSON
+JSON to POJO
+@JsonIgnore
+@JsonManagedReference/@JsonBackReference",Rob (green),,,0,,0,0,0,0,2019-01-04T18:12:59.879Z,5c2fa22b79a1fb363f1feca8,Day 1 - Mon 1/21,5c2fa22b79a1fb363f1feca7,Unit3Schedule - SD18,false
+5c2fa22b79a1fb363f1fed18,POST review,https://trello.com/c/OQ9QKqcJ/81-post-review,,Rob (green),,,0,,0,0,0,0,2019-01-21T18:34:22.352Z,5c2fa22b79a1fb363f1feca8,Day 1 - Mon 1/21,5c2fa22b79a1fb363f1feca7,Unit3Schedule - SD18,false
+5c2fa22b79a1fb363f1fed01,Demos: sdvid (rest),https://trello.com/c/M86lKaT5/58-demos-sdvid-rest,,Rob (green),,,0,,0,0,0,0,2019-01-21T18:36:40.380Z,5c2fa22b79a1fb363f1feca8,Day 1 - Mon 1/21,5c2fa22b79a1fb363f1feca7,Unit3Schedule - SD18,false
+5c47467a50274e5958c34fb9,REST Review,https://trello.com/c/sH3QBLid/89-rest-review,,Rob (green),,,0,,0,0,0,0,2019-01-22T16:36:19.123Z,5c2fa22b79a1fb363f1feca9,Day 2 - Tue 1/22,5c2fa22b79a1fb363f1feca7,Unit3Schedule - SD18,false
+5c2fa22b79a1fb363f1fecdb,Request/Response Objects (rest),https://trello.com/c/Ddlfn00K/20-request-response-objects-rest,,Rob (green),,,0,,0,0,0,0,2019-01-21T23:59:05.287Z,5c2fa22b79a1fb363f1feca9,Day 2 - Tue 1/22,5c2fa22b79a1fb363f1feca7,Unit3Schedule - SD18,false
+5c2fa22b79a1fb363f1fecdd,API Project (rest),https://trello.com/c/N29b411L/22-api-project-rest,"Xtreme 9 Lives! part 1:
+CRUD operations for Post
+
+Provided with SQL databse (xtreme.sql) and Angular front end .zip",Rob (green),,,0,,0,0,0,0,2019-01-04T18:12:59.897Z,5c2fa22b79a1fb363f1feca9,Day 2 - Tue 1/22,5c2fa22b79a1fb363f1feca7,Unit3Schedule - SD18,false
+5c2fa22b79a1fb363f1fed09,API Project Review,https://trello.com/c/G4OcQnFI/66-api-project-review,,Rob (green),,,0,,0,0,0,0,2019-01-21T18:36:45.039Z,5c2fa22b79a1fb363f1feca9,Day 2 - Tue 1/22,5c2fa22b79a1fb363f1feca7,Unit3Schedule - SD18,false
+5c2fa22b79a1fb363f1fecdc,Review (rest),https://trello.com/c/wR0zx4e6/21-review-rest,,Rob (green),,,0,,0,0,0,0,2019-01-04T18:12:59.891Z,5c2fa22b79a1fb363f1fecaa,Day 3 - Wed 1/23,5c2fa22b79a1fb363f1feca7,Unit3Schedule - SD18,false
+5c2fa22b79a1fb363f1fecd5,Intro To Spring Data JPA(data jpa),https://trello.com/c/s4PZOcR1/14-intro-to-spring-data-jpadata-jpa,"Two pages, no labs.",Rob (green),,,0,,0,0,0,0,2019-01-04T18:12:59.851Z,5c2fa22b79a1fb363f1fecaa,Day 3 - Wed 1/23,5c2fa22b79a1fb363f1feca7,Unit3Schedule - SD18,false
+5c2fa22b79a1fb363f1fed03,Repositories (data jpa),https://trello.com/c/qsWwZbfm/60-repositories-data-jpa,"Four pages, 60 - 90 minute labs, then build-together JUnit testing.",Rob (green),,,0,,0,0,0,0,2019-01-04T18:13:00.119Z,5c2fa22b79a1fb363f1fecaa,Day 3 - Wed 1/23,5c2fa22b79a1fb363f1feca7,Unit3Schedule - SD18,false
+5c2fa22b79a1fb363f1fed04,Query DSL (data jpa),https://trello.com/c/QCkovrp9/61-query-dsl-data-jpa,,Rob (green),,,0,,0,0,0,0,2019-01-23T22:51:27.150Z,5c2fa22b79a1fb363f1fecaa,Day 3 - Wed 1/23,5c2fa22b79a1fb363f1feca7,Unit3Schedule - SD18,false
+5c2fa22b79a1fb363f1fed05,More Queries (data jpa),https://trello.com/c/Sm9TkoCZ/62-more-queries-data-jpa,,Rob (green),,,0,,0,0,0,0,2019-01-04T18:13:00.129Z,5c2fa22b79a1fb363f1fecab,Day 4 - Thur 1/24,5c2fa22b79a1fb363f1feca7,Unit3Schedule - SD18,false
+5c2fa22b79a1fb363f1fecde,API Project pt. 2 (data jpa),https://trello.com/c/tWoa3O3f/23-api-project-pt-2-data-jpa,"Xtreme 9 Lives! pt. 2
+- Add Comment (Index, Create, Delete)
+- Add sort by category
+- Add search capabilities",Rob (green),,,0,,0,0,0,0,2019-01-04T18:12:59.904Z,5c2fa22b79a1fb363f1fecab,Day 4 - Thur 1/24,5c2fa22b79a1fb363f1feca7,Unit3Schedule - SD18,false
+5c4a1ddbf1b1903acec1d6bc,Xtreme API review,https://trello.com/c/h1dhIUIv/90-xtreme-api-review,,Rob (green),,,0,,0,0,0,0,2019-01-24T20:19:47.012Z,5c2fa22b79a1fb363f1fecab,Day 4 - Thur 1/24,5c2fa22b79a1fb363f1feca7,Unit3Schedule - SD18,false
+5c2fa22b79a1fb363f1fecd8,Introduction to JS,https://trello.com/c/jz07mVSI/17-introduction-to-js,,Rob (green),,,0,,0,0,0,0,2019-01-21T20:54:46.624Z,5c2fa22b79a1fb363f1fecab,Day 4 - Thur 1/24,5c2fa22b79a1fb363f1feca7,Unit3Schedule - SD18,false
+5c2fa22b79a1fb363f1fecd9,Datatypes and variables,https://trello.com/c/qgO4yZqx/18-datatypes-and-variables,,Jeremy (purple),,,0,,0,0,0,0,2019-01-25T16:01:31.732Z,5c2fa22b79a1fb363f1fecac,Day 5 - Fri 1/25,5c2fa22b79a1fb363f1feca7,Unit3Schedule - SD18,false
+5c2fa22b79a1fb363f1fece0,Automatic type conversion,https://trello.com/c/m0w7ii3j/25-automatic-type-conversion,,Rob (green),,,0,,0,0,0,0,2019-01-21T20:55:03.574Z,5c2fa22b79a1fb363f1fecac,Day 5 - Fri 1/25,5c2fa22b79a1fb363f1feca7,Unit3Schedule - SD18,false
+5c2fa22b79a1fb363f1fecdf,Operators and Expressions,https://trello.com/c/ty2pFJHt/24-operators-and-expressions,,Rob (green),,,0,,0,0,0,0,2019-01-21T20:55:08.820Z,5c2fa22b79a1fb363f1fecac,Day 5 - Fri 1/25,5c2fa22b79a1fb363f1feca7,Unit3Schedule - SD18,false
+5c2fa22b79a1fb363f1fece1,Control Flow,https://trello.com/c/uN2sg4ZS/26-control-flow,,Rob (green),,,0,,0,0,0,0,2019-01-21T20:55:13.831Z,5c2fa22b79a1fb363f1fecac,Day 5 - Fri 1/25,5c2fa22b79a1fb363f1feca7,Unit3Schedule - SD18,false
+5c2fa22b79a1fb363f1fed0a,Homework Event Tracker API,https://trello.com/c/kqhEXG85/67-homework-event-tracker-api,,Rob (green),,,0,,0,0,0,0,2019-01-04T18:13:00.161Z,5c2fa22b79a1fb363f1fecac,Day 5 - Fri 1/25,5c2fa22b79a1fb363f1feca7,Unit3Schedule - SD18,false
+5c2fa22b79a1fb363f1fece2,Functions,https://trello.com/c/OM6gFHag/27-functions,,Paul (red),,,0,,0,0,0,0,2019-01-04T18:12:59.925Z,5c2fa22b79a1fb363f1fecad,Day 6 - Mon 1/28,5c2fa22b79a1fb363f1feca7,Unit3Schedule - SD18,false
+5c50ea156e36c168fb0d8f26,Arrays,https://trello.com/c/q8LZAYbQ/91-arrays,,"Jeremy (purple), Paul (red)",,,0,,0,0,0,0,2019-01-30T00:04:37.087Z,5c2fa22b79a1fb363f1fecad,Day 6 - Mon 1/28,5c2fa22b79a1fb363f1feca7,Unit3Schedule - SD18,false
+5c2fa22b79a1fb363f1fece3,Arrays,https://trello.com/c/PZbMeZw2/28-arrays,,"Jeremy (purple), Paul (red)",,,0,,0,0,0,0,2019-01-30T00:04:40.261Z,5c2fa22b79a1fb363f1fecae,Day 7 - Tue 1/29,5c2fa22b79a1fb363f1feca7,Unit3Schedule - SD18,false
+5c2fa22b79a1fb363f1fece4,Objects,https://trello.com/c/RvIYYuXK/29-objects,,Paul (red),,,0,,0,0,0,0,2019-01-04T18:12:59.938Z,5c2fa22b79a1fb363f1fecae,Day 7 - Tue 1/29,5c2fa22b79a1fb363f1feca7,Unit3Schedule - SD18,false
+5c2fa22b79a1fb363f1fed0c,Objects,https://trello.com/c/pR97JREp/69-objects,,Paul (red),,,0,,0,0,0,0,2019-01-04T18:13:00.171Z,5c2fa22b79a1fb363f1fecaf,Day 8 - Wed 1/30,5c2fa22b79a1fb363f1feca7,Unit3Schedule - SD18,false
+5c2fa22b79a1fb363f1fed00,Lab: Mage: The Awakening,https://trello.com/c/iuzqEeu7/57-lab-mage-the-awakening,,"Afternoon (lime), Paul (red)",,,0,,0,0,0,0,2019-01-30T00:02:49.589Z,5c2fa22b79a1fb363f1fecaf,Day 8 - Wed 1/30,5c2fa22b79a1fb363f1feca7,Unit3Schedule - SD18,false
+5c2fa22b79a1fb363f1fecff,Lab: Move the square,https://trello.com/c/zXfAjCLu/56-lab-move-the-square,,"Afternoon (lime), Paul (red)",,,0,,0,0,0,0,2019-01-30T00:02:59.858Z,5c2fa22b79a1fb363f1fecaf,Day 8 - Wed 1/30,5c2fa22b79a1fb363f1feca7,Unit3Schedule - SD18,false
+5c2fa22b79a1fb363f1fece5,Intro to the DOM,https://trello.com/c/sORHLyCo/30-intro-to-the-dom,,Paul (red),,,0,,0,0,0,0,2019-01-04T18:12:59.944Z,5c2fa22b79a1fb363f1fecaf,Day 8 - Wed 1/30,5c2fa22b79a1fb363f1feca7,Unit3Schedule - SD18,false
+5c2fa22b79a1fb363f1fecf7,Accessing the DOM,https://trello.com/c/4Igq60eQ/48-accessing-the-dom,,Paul (red),,,0,,0,0,0,0,2019-01-04T18:13:00.050Z,5c2fa22b79a1fb363f1fecaf,Day 8 - Wed 1/30,5c2fa22b79a1fb363f1feca7,Unit3Schedule - SD18,false
+5c2fa22b79a1fb363f1fecf8,Event Listeners,https://trello.com/c/Vn3JO47K/49-event-listeners,,Paul (red),,,0,,0,0,0,0,2019-01-04T18:13:00.058Z,5c2fa22b79a1fb363f1fecaf,Day 8 - Wed 1/30,5c2fa22b79a1fb363f1feca7,Unit3Schedule - SD18,false
+5c2fa22b79a1fb363f1fecfd,Lab: JS Racer,https://trello.com/c/mZWU6G4F/54-lab-js-racer,,"Afternoon (lime), Pair (lime), Paul (red)",,,0,,0,0,0,0,2019-01-25T16:55:35.469Z,5c2fa22b79a1fb363f1fecaf,Day 8 - Wed 1/30,5c2fa22b79a1fb363f1feca7,Unit3Schedule - SD18,false
+5c2fa22b79a1fb363f1fecfc,DOM Traversal,https://trello.com/c/AH9mBRNc/53-dom-traversal,,Paul (red),,,0,,0,0,0,0,2019-01-04T18:13:00.082Z,5c2fa22b79a1fb363f1fecb0,Day 9 - Thur 1/31,5c2fa22b79a1fb363f1feca7,Unit3Schedule - SD18,false
+5c2fa22b79a1fb363f1fecfb,DOM - Forms,https://trello.com/c/JIBSMqth/52-dom-forms,,Paul (red),,,0,,0,0,0,0,2019-01-04T18:13:00.077Z,5c2fa22b79a1fb363f1fecb0,Day 9 - Thur 1/31,5c2fa22b79a1fb363f1feca7,Unit3Schedule - SD18,false
+5c2fa22b79a1fb363f1fecf9,DOM - Creating Elements,https://trello.com/c/3b4jZwoK/50-dom-creating-elements,,Paul (red),,,0,,0,0,0,0,2019-01-04T18:13:00.065Z,5c2fa22b79a1fb363f1fecb0,Day 9 - Thur 1/31,5c2fa22b79a1fb363f1feca7,Unit3Schedule - SD18,false
+5c2fa22b79a1fb363f1fecfa,DOM - Removing Elements,https://trello.com/c/wh00zbek/51-dom-removing-elements,,Paul (red),,,0,,0,0,0,0,2019-01-04T18:13:00.071Z,5c2fa22b79a1fb363f1fecb0,Day 9 - Thur 1/31,5c2fa22b79a1fb363f1feca7,Unit3Schedule - SD18,false
+5c2fa22b79a1fb363f1fece6,Lab: Dynamic List,https://trello.com/c/nS61EpsT/31-lab-dynamic-list,,"Afternoon (lime), Pair (lime)",,,0,,0,0,0,0,2019-01-04T18:12:59.949Z,5c2fa22b79a1fb363f1fecb0,Day 9 - Thur 1/31,5c2fa22b79a1fb363f1feca7,Unit3Schedule - SD18,false
+5c2fa22b79a1fb363f1fed0d,Lab: JSGrandma,https://trello.com/c/Pn7QguD4/70-lab-jsgrandma,,"Afternoon (lime), Pair (lime)",,,0,,0,0,0,0,2019-01-04T18:13:00.176Z,5c2fa22b79a1fb363f1fecb0,Day 9 - Thur 1/31,5c2fa22b79a1fb363f1feca7,Unit3Schedule - SD18,false
+5c2fa22b79a1fb363f1fed0e,Async,https://trello.com/c/aKNsBx7J/71-async,,Paul (red),,,0,,0,0,0,0,2019-02-01T18:31:43.552Z,5c2fa22b79a1fb363f1fecb1,Day 10 - Fri 2/1,5c2fa22b79a1fb363f1feca7,Unit3Schedule - SD18,false
+5c2fa22b79a1fb363f1fece7,XHR,https://trello.com/c/QFwczV4B/32-xhr,,Paul (red),,,0,,0,0,0,0,2019-02-01T18:31:50.567Z,5c2fa22b79a1fb363f1fecb1,Day 10 - Fri 2/1,5c2fa22b79a1fb363f1feca7,Unit3Schedule - SD18,false
+5c2fa22b79a1fb363f1fecfe,Lab: VideoStoreREST JS,https://trello.com/c/taH7eYOi/55-lab-videostorerest-js,,Afternoon (lime),,,0,,0,0,0,0,2019-01-04T18:13:00.093Z,5c2fa22b79a1fb363f1fecb1,Day 10 - Fri 2/1,5c2fa22b79a1fb363f1feca7,Unit3Schedule - SD18,false
+5c2fa22b79a1fb363f1fed0b,Homework: Event Tracker JS,https://trello.com/c/7FUm5gXH/68-homework-event-tracker-js,,Weekend Homework (lime),,,0,,0,0,0,0,2019-01-04T18:13:00.166Z,5c2fa22b79a1fb363f1fecb1,Day 10 - Fri 2/1,5c2fa22b79a1fb363f1feca7,Unit3Schedule - SD18,false
+5c5862d59cddda1b25473027,Homework: Event Tracker JS,https://trello.com/c/QsbaS7vw/93-homework-event-tracker-js,,"Rob (green), Weekend Homework (lime)",,,0,,0,0,0,0,2019-02-04T20:57:14.633Z,5c2fa22b79a1fb363f1fecb2,Day 11 - Mon 2/4,5c2fa22b79a1fb363f1feca7,Unit3Schedule - SD18,false
+5c5491b4aa88ed3c15e9cbaf,Present Event Tracker,https://trello.com/c/V98UGzPO/92-present-event-tracker,,In Class (blue),,,0,,0,0,0,0,2019-02-04T16:05:11.878Z,5c2fa22b79a1fb363f1fecb3,Day 12 - Tue 2/5,5c2fa22b79a1fb363f1feca7,Unit3Schedule - SD18,false
+5c2fa22b79a1fb363f1fecec,Intro to Angular (.30),https://trello.com/c/sfZvug2w/37-intro-to-angular-30,,Rob (green),,,0,,0,0,0,0,2019-02-04T16:05:13.991Z,5c2fa22b79a1fb363f1fecb3,Day 12 - Tue 2/5,5c2fa22b79a1fb363f1feca7,Unit3Schedule - SD18,false
+5c2fa22b79a1fb363f1fece9,Node/npm,https://trello.com/c/wyPqMjQf/34-node-npm,,Rob (green),,,0,,0,0,0,0,2019-02-04T16:05:16.333Z,5c2fa22b79a1fb363f1fecb3,Day 12 - Tue 2/5,5c2fa22b79a1fb363f1feca7,Unit3Schedule - SD18,false
+5c2fa22b79a1fb363f1fecea,Typescript,https://trello.com/c/cYojNbvD/35-typescript,,Rob (green),,,0,,0,0,0,0,2019-02-04T21:00:41.272Z,5c2fa22b79a1fb363f1fecb3,Day 12 - Tue 2/5,5c2fa22b79a1fb363f1feca7,Unit3Schedule - SD18,false
+5c2fa22b79a1fb363f1feceb,ngCli,https://trello.com/c/7fQtwe3x/36-ngcli,,Rob (green),,,0,,0,0,0,0,2019-02-04T16:05:21.540Z,5c2fa22b79a1fb363f1fecb3,Day 12 - Tue 2/5,5c2fa22b79a1fb363f1feca7,Unit3Schedule - SD18,false
+5c2fa22b79a1fb363f1feced,Application Structure (Components),https://trello.com/c/A8UrfI0L/38-application-structure-components,,Rob (green),,,0,,0,0,0,0,2019-02-04T20:50:28.934Z,5c2fa22b79a1fb363f1fecb3,Day 12 - Tue 2/5,5c2fa22b79a1fb363f1feca7,Unit3Schedule - SD18,false
+5c2fa22b79a1fb363f1fece8,Harnessing Components,https://trello.com/c/y2MU7wzK/33-harnessing-components,,Jeremy (purple),,,0,,0,0,0,0,2019-02-04T16:05:28.972Z,5c2fa22b79a1fb363f1fecb3,Day 12 - Tue 2/5,5c2fa22b79a1fb363f1feca7,Unit3Schedule - SD18,false
+5c58a61558bb55316a2c9a42,Components - Todos list lab,https://trello.com/c/AgfmUEUQ/99-components-todos-list-lab,,,,,0,,0,0,0,0,2019-02-04T20:52:37.909Z,5c2fa22b79a1fb363f1fecb3,Day 12 - Tue 2/5,5c2fa22b79a1fb363f1feca7,Unit3Schedule - SD18,false
+5c58a70677467575382e0a58,Components - Todos lab review,https://trello.com/c/VSwPcztV/105-components-todos-lab-review,,Jeremy (purple),,,0,,0,0,0,0,2019-02-06T00:27:46.444Z,5c2fa22b79a1fb363f1fecb4,Day 13 - Wed 2/6,5c2fa22b79a1fb363f1feca7,Unit3Schedule - SD18,false
+5c2fa22b79a1fb363f1fecee,Forms (Components),https://trello.com/c/hJ6VgiHD/39-forms-components,,Paul (red),,,0,,0,0,0,0,2019-02-04T20:51:14.523Z,5c2fa22b79a1fb363f1fecb4,Day 13 - Wed 2/6,5c2fa22b79a1fb363f1feca7,Unit3Schedule - SD18,false
+5c58a58038da9c30d6720cee,Forms (Components) - Todos lab,https://trello.com/c/A5RI3QF0/95-forms-components-todos-lab,,,,,0,,0,0,0,0,2019-02-04T20:50:17.385Z,5c2fa22b79a1fb363f1fecb4,Day 13 - Wed 2/6,5c2fa22b79a1fb363f1feca7,Unit3Schedule - SD18,false
+5c58a5a9083175160484ad62,Forms lab review,https://trello.com/c/x0uVAgZa/97-forms-lab-review,,,,,0,,0,0,0,0,2019-02-04T20:55:56.639Z,5c2fa22b79a1fb363f1fecb4,Day 13 - Wed 2/6,5c2fa22b79a1fb363f1feca7,Unit3Schedule - SD18,false
+5c58a7d5e5ffcc542a58d989,Bootstrap Integration,https://trello.com/c/CEL4myH6/108-bootstrap-integration,,Jeremy (purple),,,0,,0,0,0,0,2019-02-06T00:27:37.732Z,5c2fa22b79a1fb363f1fecb4,Day 13 - Wed 2/6,5c2fa22b79a1fb363f1feca7,Unit3Schedule - SD18,false
+5c2fa22b79a1fb363f1fecef,Services,https://trello.com/c/aj7M30Jq/40-services,,"Jeremy (purple), Paul (red)",,,0,,0,0,0,0,2019-02-06T21:42:32.060Z,5c2fa22b79a1fb363f1fecb4,Day 13 - Wed 2/6,5c2fa22b79a1fb363f1feca7,Unit3Schedule - SD18,false
+5c58a586bb0f9e757af5f13f,Services - Todos lab,https://trello.com/c/3szNfv2N/96-services-todos-lab,,,,,0,,0,0,0,0,2019-02-04T20:50:14.429Z,5c2fa22b79a1fb363f1fecb4,Day 13 - Wed 2/6,5c2fa22b79a1fb363f1feca7,Unit3Schedule - SD18,false
+5c58a5b139d6f05130ed785b,Services lab review,https://trello.com/c/9Evbx8K4/98-services-lab-review,,,,,0,,0,0,0,0,2019-02-07T15:25:45.180Z,5c2fa22b79a1fb363f1fecb5,Day 14 - Thu 2/7,5c2fa22b79a1fb363f1feca7,Unit3Schedule - SD18,false
+5c2fa22b79a1fb363f1fecf0,RXJS/HTTP,https://trello.com/c/MSmCcA97/41-rxjs-http,,Paul (red),,,0,,0,0,0,0,2019-02-04T20:53:34.457Z,5c2fa22b79a1fb363f1fecb5,Day 14 - Thu 2/7,5c2fa22b79a1fb363f1feca7,Unit3Schedule - SD18,false
+5c2fa22b79a1fb363f1fed1a,HTTP - Pokemon lab,https://trello.com/c/eorkqpcm/83-http-pokemon-lab,,,,,0,,0,0,0,0,2019-02-04T16:05:00.672Z,5c2fa22b79a1fb363f1fecb5,Day 14 - Thu 2/7,5c2fa22b79a1fb363f1feca7,Unit3Schedule - SD18,false
+5c58a6c997b5eb158a57f7dd,HTTP - Pokemon lab review,https://trello.com/c/mrqDteDx/104-http-pokemon-lab-review,,,,,0,,0,0,0,0,2019-02-04T20:55:40.000Z,5c2fa22b79a1fb363f1fecb5,Day 14 - Thu 2/7,5c2fa22b79a1fb363f1feca7,Unit3Schedule - SD18,false
+5c2fa22b79a1fb363f1fed1b,HTTP - TodoApp back-end lab,https://trello.com/c/ovMJamev/84-http-todoapp-back-end-lab,,,,,0,,0,0,0,0,2019-02-04T16:05:03.138Z,5c2fa22b79a1fb363f1fecb5,Day 14 - Thu 2/7,5c2fa22b79a1fb363f1feca7,Unit3Schedule - SD18,false
+5c2fa22b79a1fb363f1fed1c,Review TodoApp back-end lab,https://trello.com/c/ExLKCM2k/85-review-todoapp-back-end-lab,,,,,0,,0,0,0,0,2019-02-07T16:53:12.784Z,5c2fa22b79a1fb363f1fecb5,Day 14 - Thu 2/7,5c2fa22b79a1fb363f1feca7,Unit3Schedule - SD18,false
+5c2fa22b79a1fb363f1fecf1,routing,https://trello.com/c/F4XIyPKc/42-routing,,Paul (red),,,0,,0,0,0,0,2019-02-08T22:55:07.530Z,5c2fa22b79a1fb363f1fecb6,Day 15 - Fri 2/8,5c2fa22b79a1fb363f1feca7,Unit3Schedule - SD18,false
+5c58a6a260b27e07d6228702,Routing - Navbar lab,https://trello.com/c/HqK8QEV1/101-routing-navbar-lab,,,,,0,,0,0,0,0,2019-02-04T20:55:01.267Z,5c2fa22b79a1fb363f1fecb6,Day 15 - Fri 2/8,5c2fa22b79a1fb363f1feca7,Unit3Schedule - SD18,false
+5c58a6b6eb06646271b920c6,Routing lab review,https://trello.com/c/56lOm4gz/103-routing-lab-review,,,,,0,,0,0,0,0,2019-02-04T20:55:22.978Z,5c2fa22b79a1fb363f1fecb6,Day 15 - Fri 2/8,5c2fa22b79a1fb363f1feca7,Unit3Schedule - SD18,false
+5c2fa22b79a1fb363f1fed06,Homework (Event Tracker),https://trello.com/c/LMTklL1I/63-homework-event-tracker,,,,,0,,0,0,0,0,2019-01-04T18:13:00.134Z,5c2fa22b79a1fb363f1fecb6,Day 15 - Fri 2/8,5c2fa22b79a1fb363f1feca7,Unit3Schedule - SD18,false
+5c2fa22b79a1fb363f1fed17,Homework Setup,https://trello.com/c/cqPNycpM/80-homework-setup,,,,,0,,0,0,0,0,2019-02-04T16:04:26.373Z,5c2fa22b79a1fb363f1fecb6,Day 15 - Fri 2/8,5c2fa22b79a1fb363f1feca7,Unit3Schedule - SD18,false
+5c58c229ef82f4589561be0a,Angular Deployment,https://trello.com/c/KUlCLSO2/109-angular-deployment,,Rob (green),,,0,,0,0,0,0,2019-02-07T16:56:56.587Z,5c2fa22b79a1fb363f1fecb7,Day 16 - Mon 2/11,5c2fa22b79a1fb363f1feca7,Unit3Schedule - SD18,false
+5c58a78eed711938a35b8a58,Present Homework,https://trello.com/c/lF5nFZBG/107-present-homework,,In Class (blue),,,0,,0,0,0,0,2019-02-04T20:59:05.327Z,5c2fa22b79a1fb363f1fecb7,Day 16 - Mon 2/11,5c2fa22b79a1fb363f1feca7,Unit3Schedule - SD18,false
+5c2fa22b79a1fb363f1fed1d,Review routing,https://trello.com/c/JDNNNZFU/86-review-routing,,,,,0,,0,0,0,0,2019-02-04T16:04:20.350Z,5c2fa22b79a1fb363f1fecb7,Day 16 - Mon 2/11,5c2fa22b79a1fb363f1feca7,Unit3Schedule - SD18,false
+5c2fa22b79a1fb363f1fecf2,Auth,https://trello.com/c/BJzfDKPn/43-auth,,Rob (green),,,0,,0,0,0,0,2019-02-04T20:59:15.893Z,5c2fa22b79a1fb363f1fecb7,Day 16 - Mon 2/11,5c2fa22b79a1fb363f1feca7,Unit3Schedule - SD18,false
+5c58a77e4d70f045b68235d7,Auth - Todos register/login lab,https://trello.com/c/ljYeWM6A/106-auth-todos-register-login-lab,,,,,0,,0,0,0,0,2019-02-04T20:59:18.506Z,5c2fa22b79a1fb363f1fecb7,Day 16 - Mon 2/11,5c2fa22b79a1fb363f1feca7,Unit3Schedule - SD18,false
+5c2fa22b79a1fb363f1fed1e,Review Auth,https://trello.com/c/zaY1QOV7/87-review-auth,,Rob (green),,,0,,0,0,0,0,2019-02-11T22:26:53.124Z,5c2fa22b79a1fb363f1fecb8,Day 17 - Tue 2/12,5c2fa22b79a1fb363f1feca7,Unit3Schedule - SD18,false
+5c2fa22b79a1fb363f1fecf3,pipes,https://trello.com/c/VikFcEvE/44-pipes,,Paul (red),,,0,,0,0,0,0,2019-02-11T22:27:00.340Z,5c2fa22b79a1fb363f1fecb8,Day 17 - Tue 2/12,5c2fa22b79a1fb363f1feca7,Unit3Schedule - SD18,false
+5c58a67d51b4a02646c437ec,Pipes - Incomplete Todos lab,https://trello.com/c/ZytcoWlv/100-pipes-incomplete-todos-lab,,,,,0,,0,0,0,0,2019-02-08T20:23:19.734Z,5c2fa22b79a1fb363f1fecb8,Day 17 - Tue 2/12,5c2fa22b79a1fb363f1feca7,Unit3Schedule - SD18,false
+5c58a6b1b79d79482b266e13,Pipes lab review,https://trello.com/c/jg5sEksx/102-pipes-lab-review,,Paul (red),,,0,,0,0,0,0,2019-02-11T23:26:32.260Z,5c2fa22b79a1fb363f1fecb8,Day 17 - Tue 2/12,5c2fa22b79a1fb363f1feca7,Unit3Schedule - SD18,false
+5c5dc3b242786025e93991d9,xTreme Front End,https://trello.com/c/5R6ziwaJ/110-xtreme-front-end,,Pair (lime),,,0,,0,0,0,0,2019-02-08T18:47:31.010Z,5c2fa22b79a1fb363f1fecb8,Day 17 - Tue 2/12,5c2fa22b79a1fb363f1feca7,Unit3Schedule - SD18,false
+5c2fa22b79a1fb363f1fed08,Final Project Prep,https://trello.com/c/qkVz1USv/65-final-project-prep,,,,,0,,0,0,0,0,2019-02-08T18:01:45.905Z,5c2fa22b79a1fb363f1fecb8,Day 17 - Tue 2/12,5c2fa22b79a1fb363f1feca7,Unit3Schedule - SD18,false
+5c2fa22b79a1fb363f1fed07,3rd Party Libs,https://trello.com/c/M6k6hhkx/64-3rd-party-libs,"Angular material, Angular charts.","Rob (green), Skip (black)",,,0,,0,0,0,0,2019-02-07T16:57:51.293Z,5c2fa22b79a1fb363f1fecb8,Day 17 - Tue 2/12,5c2fa22b79a1fb363f1feca7,Unit3Schedule - SD18,false
+5c2fa22b79a1fb363f1fecf6,Final Project Pitches,https://trello.com/c/Bsp2fHZM/47-final-project-pitches,,,,,0,,0,0,0,0,2019-02-08T18:00:08.522Z,5c2fa22b79a1fb363f1fecb9,Day 18 - Wed 2/13,5c2fa22b79a1fb363f1feca7,Unit3Schedule - SD18,false
+5c2fa22b79a1fb363f1fecf4,Final Project,https://trello.com/c/2hCtXkI0/45-final-project,,,,,0,,0,0,0,0,2019-02-07T19:02:07.527Z,5c2fa22b79a1fb363f1fecb9,Day 18 - Wed 2/13,5c2fa22b79a1fb363f1feca7,Unit3Schedule - SD18,false
+5c2fa22b79a1fb363f1fed19,Final Project,https://trello.com/c/cyvKUEuN/82-final-project,,,,,0,,0,0,0,0,2019-02-04T16:04:05.901Z,5c2fa22b79a1fb363f1fecba,Day 19 - Thu 2/14,5c2fa22b79a1fb363f1feca7,Unit3Schedule - SD18,false
+5c2fa22b79a1fb363f1fed0f,Final Project,https://trello.com/c/2l3dIONR/72-final-project,,,,,0,,0,0,0,0,2019-01-04T18:13:00.185Z,5c2fa22b79a1fb363f1fecbb,Day 20 - Fri 2/15,5c2fa22b79a1fb363f1feca7,Unit3Schedule - SD18,false
+5c2fa22b79a1fb363f1fed10,Final Project,https://trello.com/c/iIenkJ69/73-final-project,,,,,0,,0,0,0,0,2019-01-04T18:13:00.190Z,5c2fa22b79a1fb363f1fecbc,Day 21 - Mon 2/18,5c2fa22b79a1fb363f1feca7,Unit3Schedule - SD18,false
+5c2fa22b79a1fb363f1fed11,Final Project,https://trello.com/c/FY6F4kix/74-final-project,,,,,0,,0,0,0,0,2019-01-04T18:13:00.195Z,5c2fa22b79a1fb363f1fecbd,Day 22 - Tue 2/19,5c2fa22b79a1fb363f1feca7,Unit3Schedule - SD18,false
+5c2fa22b79a1fb363f1fed12,Final Project,https://trello.com/c/HGMD5fag/75-final-project,,,,,0,,0,0,0,0,2019-01-04T18:13:00.200Z,5c2fa22b79a1fb363f1fecbe,Day 23 - Wed 2/20,5c2fa22b79a1fb363f1feca7,Unit3Schedule - SD18,false
+5c2fa22b79a1fb363f1fed13,Final Project,https://trello.com/c/HLgzHfzM/76-final-project,,,,,0,,0,0,0,0,2019-01-04T18:13:00.204Z,5c2fa22b79a1fb363f1fecbf,Day 24 - Thu 2/21,5c2fa22b79a1fb363f1feca7,Unit3Schedule - SD18,false
+5c2fa22b79a1fb363f1fecf5,Final Project Presentations,https://trello.com/c/PK2gWRkN/46-final-project-presentations,,,,,0,,0,0,0,0,2019-01-10T20:51:02.801Z,5c2fa22b79a1fb363f1fecc0,Day 25 - Fri 2/22,5c2fa22b79a1fb363f1feca7,Unit3Schedule - SD18,false
+5c2fa22b79a1fb363f1fed14,Final Project,https://trello.com/c/vNtbc6S5/77-final-project,,,,,0,,0,0,0,0,2019-01-10T20:51:05.265Z,5c2fa22b79a1fb363f1fecc0,Day 25 - Fri 2/22,5c2fa22b79a1fb363f1feca7,Unit3Schedule - SD18,true
+5c2fa22b79a1fb363f1fed1f,Technologies Review,https://trello.com/c/8BW6ainX/88-technologies-review,,Paul (red),,,0,,0,0,0,0,2019-02-22T17:08:16.580Z,5c2fa22b79a1fb363f1fecc1,Day 26 - Mon 2/25,5c2fa22b79a1fb363f1feca7,Unit3Schedule - SD18,false
+5c2fa22b79a1fb363f1fecca,Stack,https://trello.com/c/b3rTAKqj/3-stack,,Paul (red),,,0,,0,0,0,0,2019-01-10T20:52:09.270Z,5c2fa22b79a1fb363f1fecc1,Day 26 - Mon 2/25,5c2fa22b79a1fb363f1feca7,Unit3Schedule - SD18,false
+5c2fa22b79a1fb363f1feccb,Queue,https://trello.com/c/84mhqmDb/4-queue,,Paul (red),,,0,,0,0,0,0,2019-01-10T20:52:10.637Z,5c2fa22b79a1fb363f1fecc1,Day 26 - Mon 2/25,5c2fa22b79a1fb363f1feca7,Unit3Schedule - SD18,false
+5c2fa22b79a1fb363f1fecd1,Whiteboarding,https://trello.com/c/N0MTkWV0/10-whiteboarding,"'-FizzBuzz
+Print numbers 1-100, for multiples of 3 print fizz, for multiples of 5 print buzz, for multiples of both print fizzbuzz.
+
+-Reverse a string
+Given a string, write a method that would print it out in the reverse order.
+
+-Swap the value of two variables without creating a third variable.
+
+-You are in a room with 3 switches which correspond to 3 bulbs in another room and you don't know which switch corresponds to which bulb. You can only enter the room with the bulbs once. You can NOT use any external equipment (power supplies, resistors, etc.). How do you find out which bulb corresponds to which switch?
+
+-You have 8 balls of the same size. 7 weigh the same, the other ways a bit more. Find the heavier ball using a balance-scale only twice.",Paul (red),,,0,,0,0,0,0,2019-01-10T20:52:12.265Z,5c2fa22b79a1fb363f1fecc1,Day 26 - Mon 2/25,5c2fa22b79a1fb363f1feca7,Unit3Schedule - SD18,false
+5c2fa22b79a1fb363f1feccc,Lists,https://trello.com/c/lP19hYH6/5-lists,,Paul (red),,,0,,0,0,0,0,2019-01-10T20:52:14.245Z,5c2fa22b79a1fb363f1fecc2,Day 27 - Tue 2/26,5c2fa22b79a1fb363f1feca7,Unit3Schedule - SD18,false
+5c2fa22b79a1fb363f1fecd0,Trees,https://trello.com/c/XXCrgDKp/9-trees,,Paul (red),,,0,,0,0,0,0,2019-01-10T20:52:15.607Z,5c2fa22b79a1fb363f1fecc2,Day 27 - Tue 2/26,5c2fa22b79a1fb363f1feca7,Unit3Schedule - SD18,false
+5c2fa22b79a1fb363f1feccd,BigO,https://trello.com/c/efiKXbyd/6-bigo,,Paul (red),,,0,,0,0,0,0,2019-01-10T20:52:17.099Z,5c2fa22b79a1fb363f1fecc2,Day 27 - Tue 2/26,5c2fa22b79a1fb363f1feca7,Unit3Schedule - SD18,false
+5c2fa22b79a1fb363f1fecd2,Whiteboarding,https://trello.com/c/qcGVQNQi/11-whiteboarding,"'-Fibonacci(iterative)
+Print the first 20 numbers of the fibonacci sequence.
+
+-Implement an algorithm to determine if a string has all unique characters.
+
+-Implement an algorithm to determine if 2 strings are permutations of one another.
+
+-You have 20 bottles of pills, 19 bottles have pills that weigh 1 gram, 1 bottle has pills that weigh 1.1 grams. Given a scale that you can only use once, identify the bottle with the heavy pills.
+
+-You have 25 horses, what is the minimum number of races you can find the top 3. In one race you can race 5 horses, and you don't have a timer.
+
+",Paul (red),,,0,,0,0,0,0,2019-01-10T20:52:19.637Z,5c2fa22b79a1fb363f1fecc2,Day 27 - Tue 2/26,5c2fa22b79a1fb363f1feca7,Unit3Schedule - SD18,false
+5c2fa22b79a1fb363f1feccf,Design Patterns,https://trello.com/c/kWJF1cjY/8-design-patterns,,"Abbreviated (black), Paul (red)",,,0,,0,0,0,0,2019-02-27T20:04:32.278Z,5c2fa22b79a1fb363f1fecc2,Day 27 - Tue 2/26,5c2fa22b79a1fb363f1feca7,Unit3Schedule - SD18,false
+5c2fa22b79a1fb363f1fecce,Memory Allocation,https://trello.com/c/kfTolEMC/7-memory-allocation,,Paul (red),,,0,,0,0,0,0,2019-02-27T20:03:51.494Z,5c2fa22b79a1fb363f1fecc2,Day 27 - Tue 2/26,5c2fa22b79a1fb363f1feca7,Unit3Schedule - SD18,false
+5c2fa22b79a1fb363f1fecc9,SQL Joins,https://trello.com/c/u1fw9mmw/2-sql-joins,,"Jeremy (purple), Rob (green)",,,0,,0,0,0,0,2019-02-26T19:08:49.975Z,5c2fa22b79a1fb363f1fecc2,Day 27 - Tue 2/26,5c2fa22b79a1fb363f1feca7,Unit3Schedule - SD18,false
+5c2fa22b79a1fb363f1fed02,Threading,https://trello.com/c/AS6byTot/59-threading,We used to have this in Unit2.,Paul (red),,,0,,0,0,0,0,2019-02-27T20:04:42.658Z,5c2fa22b79a1fb363f1fecc3,Day 28 - Wed 2/27,5c2fa22b79a1fb363f1feca7,Unit3Schedule - SD18,false
+5c2fa22b79a1fb363f1fecc8,Lambdas,https://trello.com/c/0yp3iOB0/1-lambdas,Titanic Lab,"Paul (red), Rob (green)",,,0,,0,0,0,0,2019-01-10T20:52:53.057Z,5c2fa22b79a1fb363f1fecc3,Day 28 - Wed 2/27,5c2fa22b79a1fb363f1feca7,Unit3Schedule - SD18,false
+5c2fa22b79a1fb363f1fecd3,Whiteboarding,https://trello.com/c/2IFWbJc1/12-whiteboarding,"'-You intend to fly non-stop around the world, but can only go halfway around the world on a full tank. To aid your trip you can arrange many planes exactly like yours to assist with refueling. If a plane refuels you they are taking fuel out of their own reserve. All planes depart from the same airstrip and must land from where they took off. Assuming refueling can be done midair, ignoring refueling and turning time, and without crashing any plane, what is the minimum number of planes you will need?
+
+-You have two ropes and a lighter. Each rope has the following property: If you light one end of the rope, it will take one hour to burn to the other end. They don't necessarily burn at a uniform rate. How can you measure a period of 45 minutes? The video below gives a hint and explains the solution.
+
+-Find smallest difference
+Given two arrays of integers, find the pair of values (one from each array) that has the smallest non negative difference.
+
+-Check for primality
+Given a number, write a method that would return a boolean value representing if the number is a prime.
+
+",Jeremy (purple),,,0,,0,0,0,0,2019-02-27T20:05:25.291Z,5c2fa22b79a1fb363f1fecc3,Day 28 - Wed 2/27,5c2fa22b79a1fb363f1feca7,Unit3Schedule - SD18,false
+5c2fa22b79a1fb363f1fed16,Whiteboarding,https://trello.com/c/VgFl8VvF/79-whiteboarding,"'-You intend to fly non-stop around the world, but can only go halfway around the world on a full tank. To aid your trip you can arrange many planes exactly like yours to assist with refueling. If a plane refuels you they are taking fuel out of their own reserve. All planes depart from the same airstrip and must land from where they took off. Assuming refueling can be done midair, ignoring refueling and turning time, and without crashing any plane, what is the minimum number of planes you will need?
+
+-You have two ropes and a lighter. Each rope has the following property: If you light one end of the rope, it will take one hour to burn to the other end. They don't necessarily burn at a uniform rate. How can you measure a period of 45 minutes? The video below gives a hint and explains the solution.
+
+-Find smallest difference
+Given two arrays of integers, find the pair of values (one from each array) that has the smallest non negative difference.
+
+-Check for primality
+Given a number, write a method that would return a boolean value representing if the number is a prime.
+
+",Paul (red),,,0,,0,0,0,0,2019-02-27T20:05:34.239Z,5c2fa22b79a1fb363f1fecc3,Day 28 - Wed 2/27,5c2fa22b79a1fb363f1feca7,Unit3Schedule - SD18,true
+5c2fa22b79a1fb363f1fed15,Graduation,https://trello.com/c/pA8h3p5u/78-graduation,,,,,0,,0,0,0,0,2019-02-26T23:59:15.341Z,5c2fa22b79a1fb363f1fecc4,Day 29 - Thu 2/28,5c2fa22b79a1fb363f1feca7,Unit3Schedule - SD18,false
