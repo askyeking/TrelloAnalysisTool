@@ -54,6 +54,17 @@ public class Topic {
 	}
 
 
+	public int getMonth() {
+		// ToDo: Write this code to get the integer month out of dateStr.
+		
+		return 1; // Temp until code written
+	}
+	
+	public int getYear() {
+		// ToDo: Write this code to get the integer year out of dateStr.
+		
+		return 2019; // Temp until code written.
+	}
 
 	@Override
 	public String toString() {
