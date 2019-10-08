@@ -52,6 +52,13 @@ public class Topic {
 	public void setTopic(String topic) {
 		this.topic = topic;
 	}
+
+
+
+	@Override
+	public String toString() {
+		return "Topic [instructors=" + instructors + ", dateStr=" + dateStr + ", topic=" + topic + "]";
+	}
 	
 	
 	
