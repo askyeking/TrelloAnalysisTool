@@ -1,5 +1,6 @@
 package com.skilldistillery.tat;
 
+import java.io.File;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -28,6 +29,14 @@ public class TrelloDir {
 			}
 		}
 		*/
+		
+		File folder = new File("src/main/resources");
+		File[] list = folder.listFiles();
+		for (File f : list) {
+			if (f.getName().endsWith(".csv")) {
+				result.add(new TrelloCsvFile(f.getName()));
+			}
+		}
 		
 		return result;
 	}
