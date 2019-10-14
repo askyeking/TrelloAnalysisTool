@@ -46,10 +46,10 @@ public class Topic {
 	public void setDateStr(String dateStr) {
 		this.dateStr = dateStr;
 	}
-	public String getTopic() {
+	public String getTopicName() {
 		return topicName;
 	}
-	public void setTopic(String topic) {
+	public void setTopicName(String topic) {
 		this.topicName = topic;
 	}
 

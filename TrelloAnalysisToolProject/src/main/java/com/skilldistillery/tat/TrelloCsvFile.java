@@ -6,7 +6,9 @@ import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 
 import org.apache.commons.csv.CSVFormat;
 import org.apache.commons.csv.CSVParser;
@@ -39,19 +41,17 @@ public class TrelloCsvFile {
 	public List<Topic> getTopics(String pathName) {
 		List<Topic> parsedTopics = new ArrayList<Topic>();
 		try {
-				Reader reader = Files.newBufferedReader(Paths.get(pathName + fileName));
-				CSVParser csvParser = new CSVParser(reader, CSVFormat.DEFAULT
-	                    .withFirstRecordAsHeader()
-	                    .withIgnoreHeaderCase()
-	                    .withTrim());
+			Reader reader = Files.newBufferedReader(Paths.get(pathName + fileName));
+			CSVParser csvParser = new CSVParser(reader,
+					CSVFormat.DEFAULT.withFirstRecordAsHeader().withIgnoreHeaderCase().withTrim());
 			for (CSVRecord csvRecord : csvParser) {
 				// Accessing values by the names assigned to each column
 				String topicName = csvRecord.get("Card Name");
 				String instructors = csvRecord.get("Labels");
-				String [] instructorArray = instructors.split(", ");
-				List<String> instructorList = Arrays.asList(instructorArray); 
+				String[] instructorArray = instructors.split(", ");
+				List<String> instructorList = Arrays.asList(instructorArray);
 				String date = csvRecord.get("List Name");
-				
+
 				Topic topic = new Topic(instructorList, date, topicName);
 				parsedTopics.add(topic);
 				System.out.println(topic);
@@ -69,6 +69,18 @@ public class TrelloCsvFile {
 		return parsedTopics;
 	}
 
+	public Map<String, Integer> getInstructorTopicTallyMap(List<Topic> topics) {
+		Map<String, Integer> tallyMap = new HashMap<String, Integer>();
+		for (Topic topic : topics) {
+			for (String instructor : topic.getInstructors()) {
+				int count = tallyMap.containsKey(instructor) ? tallyMap.get(instructor) : 0;
+				tallyMap.put(instructor, count + 1);
+				
+			}
+
+		}
+		return tallyMap;
+	}
 
 	@Override
 	public String toString() {
