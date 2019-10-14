@@ -21,7 +21,7 @@ public class TrelloCsvFileTests //
 //		} 
 //		else
 //		{
-			TrelloCsvFile myCsvFile = new TrelloCsvFile("SD16_Unit1.csv");
+			TrelloCsvFile myCsvFile = new TrelloCsvFile("SD16_Unit2.csv");
 			myTopics = myCsvFile.getTopics("src/main/resources/");
 //		}
 		assertNotNull(myTopics);

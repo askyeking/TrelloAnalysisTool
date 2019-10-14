@@ -8,7 +8,7 @@ public class Topic {
 	
 	private List<String> instructors;
 	private String dateStr; // This shouldn't be a String.
-	private String topic;
+	private String topicName;
 	
 	// C o n s t r u c t o r
 	// ToDo: Write constructor
@@ -22,7 +22,7 @@ public class Topic {
 		super();
 		this.instructors = instructors;
 		this.dateStr = dateStr;
-		this.topic = topic;
+		this.topicName = topic;
 	}
 
 
@@ -47,17 +47,26 @@ public class Topic {
 		this.dateStr = dateStr;
 	}
 	public String getTopic() {
-		return topic;
+		return topicName;
 	}
 	public void setTopic(String topic) {
-		this.topic = topic;
+		this.topicName = topic;
 	}
 
 
 
 	@Override
 	public String toString() {
-		return "Topic [instructors=" + instructors + ", dateStr=" + dateStr + ", topic=" + topic + "]";
+		StringBuilder builder = new StringBuilder();
+		builder.append("Topic instructors: ");
+		for (String instructorName : instructors) {
+			builder.append(instructorName);
+		}
+		builder.append(", dateStr: ")
+		.append(dateStr)
+		.append(", topic: ")
+		.append(topicName);
+		return builder.toString();
 	}
 	
 	
