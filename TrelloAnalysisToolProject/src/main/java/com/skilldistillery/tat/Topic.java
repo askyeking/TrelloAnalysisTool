@@ -6,8 +6,9 @@ public class Topic {
 
 	// F i e l d s
 	
-	private List<String> instructors;
 	private String dateStr; // This shouldn't be a String.
+	private List<String> instructors;
+	private String lastEditDate;
 	private String topicName;
 	
 	// C o n s t r u c t o r
