@@ -9,16 +9,30 @@ public class TrelloDirTests //
 {
 
 	@Test
-	public void testTrelloDirReturnsSomeCsvFiles() //
+	public void test_TrelloDir_returns_some_csv_files() //
 	{
-		TrelloDir myTrelloDir = new TrelloDir();
-		List<TrelloCsvFile> myCsvs = myTrelloDir.getAllCsvFiles("src/main/resources/");
-		TrelloCsvFile[] myCsvsArr = myCsvs.toArray(new TrelloCsvFile[myCsvs.size()]);
-		for (int i = 0; i < myCsvsArr.length; i++) {
-			System.out.println(myCsvsArr[i]);
-		}
-		System.out.println();
+		TrelloDir myTrelloDir = new TrelloDir("src/main/resources/");
+		List<TrelloCsvFile> myCsvs = myTrelloDir.getAllCsvFiles("SD16_Unit1.csv");
+		assertNotNull(myCsvs);
 		assertTrue(myCsvs.size() > 0);
-	}
+	} // end ( )
+
+	@Test
+	public void test_TrelloDir_returns_good_csv_files() //
+	{
+		TrelloDir myTrelloDir = new TrelloDir("src/main/resources/");
+		List<TrelloCsvFile> myCsvs = myTrelloDir.getAllCsvFiles("SD16_Unit1.csv");
+
+		for (TrelloCsvFile myCsv : myCsvs) //
+		{
+			String csvName = myCsv.getFileName();
+			assertNotNull(csvName);
+			assertTrue(csvName.startsWith("src/main/resources/"));
+			assertTrue(csvName.endsWith(".csv"));
+			List<Topic> topics = myCsv.getTopics();
+			assertNotNull(topics);
+			assertTrue(topics.size() > 0);
+		}
+	} // end ( )
 
 }

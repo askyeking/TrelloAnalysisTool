@@ -6,8 +6,9 @@ public class Topic {
 
 	// F i e l d s
 	
-	private List<String> instructors;
 	private String dateStr; // This shouldn't be a String.
+	private List<String> instructors;
+	private String lastEditDate;
 	private String topicName;
 	
 	// C o n s t r u c t o r
@@ -37,6 +38,22 @@ public class Topic {
 	}
 	public String getTopicName() {
 		return topicName;
+	}
+	public void setTopicName(String topic) {
+		this.topicName = topic;
+	}
+
+
+	public Integer getMonth() {
+		// ToDo: Write this code to get the integer month out of dateStr.
+		
+		return null; // Temp until code written
+	}
+	
+	public Integer getYear() {
+		// ToDo: Write this code to get the integer year out of dateStr.
+		
+		return null; // Temp until code written.
 	}
 
 	@Override

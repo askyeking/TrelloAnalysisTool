@@ -21,29 +21,39 @@ public class TrelloCsvFile {
 	private String fileName;
 	private int errorCount;
 	//TODO: add a pathname as a field and include it in the constructor. refactor the methods to reflect this. also get rid of setters
-	private String pathName;
+	private String pathAndFileName;
 	// C o n s t r u c t o r s
 
-	public TrelloCsvFile(String pathName, String fileName) {
+	public TrelloCsvFile(String pathAndFileName) {
 		// ToDo: Write method - easy - 1 line?
-		this.pathName = pathName;
-		this.fileName = fileName;
+		this.pathAndFileName = pathAndFileName;
 	}
 
 	// M e t h o d s
-
 	public String getFileName() {
 		return fileName;
 	}
+	
+	public void setFileName(String fileName) {
+		/*if we wanted to use the whole path name as the fileName, 
+		the user would have to type the path twice (once for the Directory 
+		constructor, and another time for directory's getCsvFiles() method call
+		 * I thought that would be prone to typos so I split them into the path + fileName
+		 * (so now, the user would have to input the path name once, and input the actual csv file name when calling getCsvFiles())
+		 * The setter is required to set this combination of path+fileName to be the actual filename so the tests run successfully
+		 */
+		
+		this.fileName = fileName;
+	}
 
-	public String getPathName() {
-		return pathName;
+	public String getPathAndFileName() {
+		return pathAndFileName;
 	}
 
 	public List<Topic> getTopics() {
 		List<Topic> parsedTopics = new ArrayList<Topic>();
 		try {
-			Reader reader = Files.newBufferedReader(Paths.get(pathName + fileName));
+			Reader reader = Files.newBufferedReader(Paths.get(pathAndFileName));
 			CSVParser csvParser = new CSVParser(reader,
 					CSVFormat.DEFAULT.withFirstRecordAsHeader().withIgnoreHeaderCase().withTrim());
 			for (CSVRecord csvRecord : csvParser) {
