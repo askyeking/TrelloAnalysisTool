@@ -2,7 +2,6 @@ package com.skilldistillery.tat;
 
 import java.io.File;
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 
 public class TrelloDir {
@@ -19,7 +18,6 @@ public class TrelloDir {
 	public List<TrelloCsvFile> getAllCsvFiles(String fileName) {
 		List<TrelloCsvFile> result = new ArrayList<>();
 		
-	
 		File folder = new File(directoryPath);
 		File[] listOfFiles = folder.listFiles();
 		for (int i = 0; i < listOfFiles.length; i++) {
