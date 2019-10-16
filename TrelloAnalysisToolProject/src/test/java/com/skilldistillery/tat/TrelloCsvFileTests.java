@@ -29,7 +29,7 @@ public class TrelloCsvFileTests //
 	@Test
 	public void testTrelloCsvFileReturnsSomeTopics() //
 	{
-		List<TrelloCsvFile> myCsvs = myTrelloDir.getAllCsvFiles("src/main/resources/");
+		List<TrelloCsvFile> myCsvs = myTrelloDir.getAllCsvFiles("SD16_Unit2.csv");
 
 		List<Topic> myTopics = null;
 //		if (myCsvs.size() > 0) //
@@ -41,24 +41,27 @@ public class TrelloCsvFileTests //
 			TrelloCsvFile myCsvFile = new TrelloCsvFile("src/main/resources/SD16_Unit2.csv");
 			myTopics = myCsvFile.getTopics();
 //		}
-		List<TrelloCsvFile> myCsvs = myTrelloDir.getAllCsvFiles();
 		assertNotNull(myCsvs);
 		assertTrue(myCsvs.size() > 0);
 
-		List<Topic> myTopics = myCsvs.get(0).getTopics();
+		myTopics = myCsvs.get(0).getTopics();
+
 		assertNotNull(myTopics);
+		for (Topic topic : myTopics) {
+			System.out.println(topic);
+		}
 		assertTrue(myTopics.size() > 0);
 	}
 	
 	@Test
 	public void testGetInstructorTopicTallyMapReturnsSomeTallies() {
-		List<TrelloCsvFile> myCsvs = myTrelloDir.getAllCsvFiles("src/main/resources/");
+		List<TrelloCsvFile> myCsvs = myTrelloDir.getAllCsvFiles("SD16_Unit2.csv");
 		List<Topic> myTopics = null;
-		TrelloCsvFile myCsvFile = new TrelloCsvFile("src/main/resources/", "SD16_Unit2.csv");
+		TrelloCsvFile myCsvFile = new TrelloCsvFile("src/main/resources/SD16_Unit2.csv");
 		myTopics = myCsvFile.getTopics();
 		Map<String,Integer> myTallyMap = myCsvFile.getInstructorTopicTallyMap(myCsvFile.getTopics());
 		System.out.println("*************************" + myTallyMap.size());
-		Set<String> s = myTallyMap.keySet();      // Set of Integer keys
+		Set<String> s = myTallyMap.keySet();      
 		Iterator<String> it = s.iterator();
 
 		while (it.hasNext()) {
@@ -70,25 +73,4 @@ public class TrelloCsvFileTests //
 		assertNotNull(myTallyMap);
 		assertTrue(myTallyMap.size() > 0);
 	}
-//	@Test
-//	public void testGetInstructorTopicTallyMapReturnsSomeTallies() {
-//		List<TrelloCsvFile> myCsvs = myTrelloDir.getAllCsvFiles("src/main/resources/");
-//		List<Topic> myTopics = null;
-//		TrelloCsvFile myCsvFile = new TrelloCsvFile("SD16_Unit2.csv");
-//		myTopics = myCsvFile.getTopics("src/main/resources/");
-//		Map<String,Integer> myTallyMap = myCsvFile.getInstructorTopicTallyMap(myCsvFile.getTopics("src/main/resources/"));
-//		System.out.println("*************************" + myTallyMap.size());
-//		Set<String> s = myTallyMap.keySet();      // Set of Integer keys
-//		Iterator<String> it = s.iterator();
-//
-//		while (it.hasNext()) {
-//		  String key = it.next();
-//		  System.out.print("Key: " + key);
-//		  System.out.println(" Value: " + myTallyMap.get(key));
-//		}
-//		
-//		assertNotNull(myTallyMap);
-//		assertTrue(myTallyMap.size() > 0);
-//	}
-
 }

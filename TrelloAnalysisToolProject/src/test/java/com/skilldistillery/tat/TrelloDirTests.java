@@ -12,7 +12,7 @@ public class TrelloDirTests //
 	public void test_TrelloDir_returns_some_csv_files() //
 	{
 		TrelloDir myTrelloDir = new TrelloDir("src/main/resources/");
-		List<TrelloCsvFile> myCsvs = myTrelloDir.getAllCsvFiles();
+		List<TrelloCsvFile> myCsvs = myTrelloDir.getAllCsvFiles("SD16_Unit1.csv");
 		assertNotNull(myCsvs);
 		assertTrue(myCsvs.size() > 0);
 	} // end ( )
@@ -21,7 +21,7 @@ public class TrelloDirTests //
 	public void test_TrelloDir_returns_good_csv_files() //
 	{
 		TrelloDir myTrelloDir = new TrelloDir("src/main/resources/");
-		List<TrelloCsvFile> myCsvs = myTrelloDir.getAllCsvFiles();
+		List<TrelloCsvFile> myCsvs = myTrelloDir.getAllCsvFiles("SD16_Unit1.csv");
 
 		for (TrelloCsvFile myCsv : myCsvs) //
 		{
