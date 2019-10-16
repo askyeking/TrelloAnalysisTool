@@ -16,16 +16,12 @@ public class Topic {
 		super();
 	}
 	
-	
-
 	public Topic(List<String> instructors, String dateStr, String topic) {
 		super();
 		this.instructors = instructors;
 		this.dateStr = dateStr;
 		this.topicName = topic;
 	}
-
-
 
 	// M e t h o d s
 	
@@ -36,24 +32,12 @@ public class Topic {
 		return instructors;
 	}
 
-	public void setInstructors(List<String> instructors) {
-		this.instructors = instructors;
-	}
-
 	public String getDateStr() {
 		return dateStr;
-	}
-	public void setDateStr(String dateStr) {
-		this.dateStr = dateStr;
 	}
 	public String getTopicName() {
 		return topicName;
 	}
-	public void setTopicName(String topic) {
-		this.topicName = topic;
-	}
-
-
 
 	@Override
 	public String toString() {
