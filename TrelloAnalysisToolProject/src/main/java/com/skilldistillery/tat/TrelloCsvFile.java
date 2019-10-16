@@ -20,12 +20,14 @@ public class TrelloCsvFile {
 
 	private String fileName;
 	private int errorCount;
-
+	//TODO: add a pathname as a field and include it in the constructor. refactor the methods to reflect this. also get rid of setters
+	private String pathName;
 	// C o n s t r u c t o r s
 
-	public TrelloCsvFile(String fileName) {
+	public TrelloCsvFile(String pathName, String fileName) {
 		// ToDo: Write method - easy - 1 line?
-		this.setFileName(fileName);
+		this.pathName = pathName;
+		this.fileName = fileName;
 	}
 
 	// M e t h o d s
@@ -34,11 +36,11 @@ public class TrelloCsvFile {
 		return fileName;
 	}
 
-	public void setFileName(String fileName) {
-		this.fileName = fileName;
+	public String getPathName() {
+		return pathName;
 	}
 
-	public List<Topic> getTopics(String pathName) {
+	public List<Topic> getTopics() {
 		List<Topic> parsedTopics = new ArrayList<Topic>();
 		try {
 			Reader reader = Files.newBufferedReader(Paths.get(pathName + fileName));
@@ -78,6 +80,17 @@ public class TrelloCsvFile {
 				
 			}
 
+		}
+		return tallyMap;
+	}
+	public Map<String, Integer> getInstructorTopicTallyMapByMonth(String month, List<Topic> topics) {
+		// Some CSV files are missing some dates
+		Map<String, Integer> tallyMap = new HashMap<String, Integer>();
+		for (Topic topic : topics) {
+			for (String instructor : topic.getInstructors()) {
+				int count = tallyMap.containsKey(instructor) ? tallyMap.get(instructor) : 0;
+				tallyMap.put(instructor, count + 1);
+			}
 		}
 		return tallyMap;
 	}
