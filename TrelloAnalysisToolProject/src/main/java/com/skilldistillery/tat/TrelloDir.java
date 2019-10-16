@@ -16,6 +16,7 @@ public class TrelloDir {
 	public List<TrelloCsvFile> getAllCsvFiles(String directoryPath) {
 		List<TrelloCsvFile> result = new ArrayList<>();
 		
+
 		File folder = new File(directoryPath);
 		File[] listOfFiles = folder.listFiles();
 		for (int i = 0; i < listOfFiles.length; i++) {
