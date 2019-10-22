@@ -87,7 +87,7 @@ Write (together) a servlet to show `doGet` and `doPost`.","Alex (sky), Rob (gree
 5d419dd169948a72461d5a5e,JPQL,https://trello.com/c/f9BqxdY4/36-jpql,"'-Basic Queries
 -Query Parameters
 
-",Jeremy (purple),,,0,,0,0,0,0,2019-09-04T05:55:15.863Z,5d419dd169948a72461d59ea,Day 12 - Wed 9/4,5d419dd169948a72461d59dd,Unit2Schedule - SD22,false
+",Denise (orange),,,0,,0,0,0,0,2019-09-26T20:01:46.593Z,5d419dd169948a72461d59ea,Day 12 - Wed 9/4,5d419dd169948a72461d59dd,Unit2Schedule - SD22,false
 5d419dd169948a72461d5ac2,Git Tutorial,https://trello.com/c/fbt6oH9M/86-git-tutorial,https://learngitbranching.js.org/?locale=en_US,,,,0,,0,0,0,0,2019-09-05T15:35:23.677Z,5d419dd169948a72461d59ea,Day 12 - Wed 9/4,5d419dd169948a72461d59dd,Unit2Schedule - SD22,false
 5d419dd169948a72461d5a32,Unit Testing Spring MVC,https://trello.com/c/y93Z7eXK/14-unit-testing-spring-mvc,,"Rob (green), SKIP (black)",,,0,,0,0,0,0,2019-09-05T15:35:29.229Z,5d419dd169948a72461d59ea,Day 12 - Wed 9/4,5d419dd169948a72461d59dd,Unit2Schedule - SD22,false
 5d419dd169948a72461d5a5a,CRUD with JPA,https://trello.com/c/hBAL4gZH/34-crud-with-jpa,"'-Transactions/Committing
@@ -103,31 +103,35 @@ Write (together) a servlet to show `doGet` and `doPost`.","Alex (sky), Rob (gree
 * Syntax - CREATE, ALTER, DROP.
 * In-class build of 4-5 personal project databases.",Rob (green),,,0,,0,0,0,0,2019-09-05T17:07:08.659Z,5d419dd169948a72461d59ee,Day 14 - Fri 9/6,5d419dd169948a72461d59dd,Unit2Schedule - SD22,false
 5d419dd169948a72461d5a98,MySQL Workbench - Modeling,https://trello.com/c/Ob7kswMB/65-mysql-workbench-modeling,,Jeremy (purple),,,0,,0,0,0,0,2019-09-05T17:04:19.579Z,5d419dd169948a72461d59ee,Day 14 - Fri 9/6,5d419dd169948a72461d59dd,Unit2Schedule - SD22,false
+5d72a98d1e02812b52175c07,Individual Spring Boot JPA CRUD Project,https://trello.com/c/EFiMCjhr/116-individual-spring-boot-jpa-crud-project,,Rob (green),,,0,,0,0,0,0,2019-09-06T18:46:41.435Z,5d419dd169948a72461d59ee,Day 14 - Fri 9/6,5d419dd169948a72461d59dd,Unit2Schedule - SD22,false
+5d72a9ab69510535a09fcc61,Individual CRUD Project,https://trello.com/c/BVmoe7uK/117-individual-crud-project,,"Rob (green), Weekend Homework (blue)",,,0,,0,0,0,0,2019-09-06T22:58:28.828Z,5d419dd169948a72461d59ee,Day 14 - Fri 9/6,5d419dd169948a72461d59dd,Unit2Schedule - SD22,false
 5d419dd169948a72461d5aec,AWS Deployment/Review,https://trello.com/c/iBeZtySc/107-aws-deployment-review,"'- Create EC2 Instance (before class)
 - Walk through what is required locally/on aws to get applciation to run
 - discuss ssh and scp commands 
+- demonstrate scp of .sql
+- demonstrate login and run .sql on EC2
 - demonstrate scp of .war
-- demonstrate scp of .sql 
 - discuss persistence.xml/sql/user harmonization 
 
 - Review organizational process for creating a Spring MVC project
-- Wireframe a page, write controller route to serve view, add data to model, show data with jstl",Alex (sky),,,0,,0,0,0,0,2019-09-04T19:24:47.441Z,5d419dd169948a72461d59ef,Day 15 - Mon 9/9,5d419dd169948a72461d59dd,Unit2Schedule - SD22,false
+- Wireframe a page, write controller route to serve view, add data to model, show data with jstl",Alex (sky),,,0,,0,0,0,0,2019-09-06T19:48:45.901Z,5d419dd169948a72461d59ef,Day 15 - Mon 9/9,5d419dd169948a72461d59dd,Unit2Schedule - SD22,false
 5d419dd169948a72461d5aac,Present CRUD projects,https://trello.com/c/mUtHCTxe/75-present-crud-projects,,Denise (orange),,,0,,0,0,0,0,2019-09-04T19:25:08.514Z,5d419dd169948a72461d59ef,Day 15 - Mon 9/9,5d419dd169948a72461d59dd,Unit2Schedule - SD22,false
 5d419dd169948a72461d5a6e,Intro to Relationships,https://trello.com/c/gWhXvc9a/44-intro-to-relationships,'-unidirectional vs. bi-directional,Denise (orange),,,0,,0,0,0,0,2019-07-31T13:55:30.904Z,5d419dd169948a72461d59ef,Day 15 - Mon 9/9,5d419dd169948a72461d59dd,Unit2Schedule - SD22,false
 5d419dd169948a72461d5a62,'@OneToOne,https://trello.com/c/Lot8Q3H9/38-onetoone,,Denise (orange),,,0,,0,0,0,0,2019-07-31T13:55:31.092Z,5d419dd169948a72461d59ef,Day 15 - Mon 9/9,5d419dd169948a72461d59dd,Unit2Schedule - SD22,false
 5d419dd169948a72461d5a64,'@ManyToOne,https://trello.com/c/CKkRQ5tH/39-manytoone,,Denise (orange),,,0,,0,0,0,0,2019-07-31T13:55:31.067Z,5d419dd169948a72461d59ef,Day 15 - Mon 9/9,5d419dd169948a72461d59dd,Unit2Schedule - SD22,false
 5d419dd169948a72461d5abc,'@ManyToOne Labs,https://trello.com/c/lrZEsEbJ/83-manytoone-labs,,Denise (orange),,,0,,0,0,0,0,2019-07-31T13:55:30.084Z,5d419dd169948a72461d59ef,Day 15 - Mon 9/9,5d419dd169948a72461d59dd,Unit2Schedule - SD22,false
-5d419dd169948a72461d5abe,'@ManyToOne Lab Review,https://trello.com/c/by4YvnSL/84-manytoone-lab-review,,Rob (green),,,0,,0,0,0,0,2019-07-31T13:55:30.069Z,5d419dd169948a72461d59ef,Day 15 - Mon 9/9,5d419dd169948a72461d59dd,Unit2Schedule - SD22,false
+5d419dd169948a72461d5abe,'@ManyToOne Lab Review,https://trello.com/c/by4YvnSL/84-manytoone-lab-review,,Denise (orange),,,0,,0,0,0,0,2019-09-09T18:38:31.312Z,5d419dd169948a72461d59f0,Day 16 - Tue 9/10,5d419dd169948a72461d59dd,Unit2Schedule - SD22,false
 5d419dd169948a72461d5a66,'@ManyToMany,https://trello.com/c/j2WqzWWC/40-manytomany,,Rob (green),,,0,,0,0,0,0,2019-07-31T13:55:31.027Z,5d419dd169948a72461d59f0,Day 16 - Tue 9/10,5d419dd169948a72461d59dd,Unit2Schedule - SD22,false
 5d419dd169948a72461d5a68,JPQL with relationships,https://trello.com/c/R2kQVkIK/41-jpql-with-relationships,"'-Eager vs Lazy
 -(n+1)",Rob (green),,,0,,0,0,0,0,2019-07-31T13:55:31.008Z,5d419dd169948a72461d59f0,Day 16 - Tue 9/10,5d419dd169948a72461d59dd,Unit2Schedule - SD22,false
-5d419dd169948a72461d5a6a,Additional JPA Mappings (AssociationClasses),https://trello.com/c/3Ll4Fq2a/42-additional-jpa-mappings-associationclasses,,Rob (green),,,0,,0,0,0,0,2019-07-31T13:55:30.988Z,5d419dd169948a72461d59f0,Day 16 - Tue 9/10,5d419dd169948a72461d59dd,Unit2Schedule - SD22,false
-5d419dd169948a72461d5ab2,Reading Assignment - Git Branching,https://trello.com/c/Q5unXjnW/78-reading-assignment-git-branching,,Rob (green),,,0,,0,0,0,0,2019-07-31T13:55:30.162Z,5d419dd169948a72461d59f0,Day 16 - Tue 9/10,5d419dd169948a72461d59dd,Unit2Schedule - SD22,false
+5d419dd169948a72461d5a6a,Additional JPA Mappings (AssociationClasses),https://trello.com/c/3Ll4Fq2a/42-additional-jpa-mappings-associationclasses,,Denise (orange),,,0,,0,0,0,0,2019-09-26T20:04:57.508Z,5d419dd169948a72461d59f0,Day 16 - Tue 9/10,5d419dd169948a72461d59dd,Unit2Schedule - SD22,false
+5d419dd169948a72461d5ab4,Individual CRUD Enhancement/Branching,https://trello.com/c/vdCOaXVy/79-individual-crud-enhancement-branching," in the past we had them add a second table to their JPA project, using a different Git branch, after covering branching.","Denise (orange), SKIP (black)",,,0,,0,0,0,0,2019-09-10T02:57:23.884Z,5d419dd169948a72461d59f0,Day 16 - Tue 9/10,5d419dd169948a72461d59dd,Unit2Schedule - SD22,false
+5d419dd169948a72461d5ab2,Reading Assignment - Git Branching,https://trello.com/c/Q5unXjnW/78-reading-assignment-git-branching,,Rob (green),,,0,,0,0,0,0,2019-09-09T18:38:46.699Z,5d419dd169948a72461d59f0,Day 16 - Tue 9/10,5d419dd169948a72461d59dd,Unit2Schedule - SD22,true
+5d769c68af0db75b01477583,Association Classes Lab and Review,https://trello.com/c/xhvqJAeE/118-association-classes-lab-and-review,,Denise (orange),,,0,,0,0,0,0,2019-09-11T16:07:00.523Z,5d419dd169948a72461d59f1,Day 17 - Wed 9/11,5d419dd169948a72461d59dd,Unit2Schedule - SD22,false
 5d419dd169948a72461d5a6c,CRUD with relationships,https://trello.com/c/22lIo1yh/43-crud-with-relationships,"'-Setting foreign keys
 -Managed vs detached
 -Cascading",Denise (orange),,,0,,0,0,0,0,2019-07-31T13:55:30.943Z,5d419dd169948a72461d59f1,Day 17 - Wed 9/11,5d419dd169948a72461d59dd,Unit2Schedule - SD22,false
 5d419dd169948a72461d5ad8,CRUD with relationships review,https://trello.com/c/mLGGlepS/97-crud-with-relationships-review,,Denise (orange),,,0,,0,0,0,0,2019-07-31T13:55:29.809Z,5d419dd169948a72461d59f1,Day 17 - Wed 9/11,5d419dd169948a72461d59dd,Unit2Schedule - SD22,false
-5d419dd169948a72461d5ab0,Git Branching,https://trello.com/c/46COiEKn/77-git-branching,,Rob (green),,,0,,0,0,0,0,2019-07-31T13:55:30.174Z,5d419dd169948a72461d59f1,Day 17 - Wed 9/11,5d419dd169948a72461d59dd,Unit2Schedule - SD22,false
 5d419dd169948a72461d5a54,SQL2 - Database Design Concepts - Relationships,https://trello.com/c/56tloUGl/31-sql2-database-design-concepts-relationships,"ER Modeling
 
 `state_symbol` table
@@ -138,18 +142,20 @@ Write (together) a servlet to show `doGet` and `doPost`.","Alex (sky), Rob (gree
 
 * Constraints
 
-* Database Server",Rob (green),,,0,,0,0,0,0,2019-07-31T13:55:31.261Z,5d419dd169948a72461d59f1,Day 17 - Wed 9/11,5d419dd169948a72461d59dd,Unit2Schedule - SD22,false
-5d419dd169948a72461d5ab4,Individual CRUD Enhancement/Branching,https://trello.com/c/vdCOaXVy/79-individual-crud-enhancement-branching,,Denise (orange),,,0,,0,0,0,0,2019-07-31T13:55:30.150Z,5d419dd169948a72461d59f2,Day 18 - Thu 9/12,5d419dd169948a72461d59dd,Unit2Schedule - SD22,false
-5d419dd169948a72461d5aae,Individual CRUD Project,https://trello.com/c/QW4lm0nR/76-individual-crud-project,"Convert single-table individual JPACRUDProject to multi-table in a git branch, merge to master with pull request.",Weekend Homework (blue),,,0,,0,0,0,0,2019-07-31T13:55:30.205Z,5d419dd169948a72461d59f2,Day 18 - Thu 9/12,5d419dd169948a72461d59dd,Unit2Schedule - SD22,false
-5d419dd169948a72461d5aba,Midterm Project Pitch,https://trello.com/c/cgksKxR7/82-midterm-project-pitch,,"Alex (sky), Rob (green)",,,0,,0,0,0,0,2019-07-31T13:55:30.098Z,5d419dd169948a72461d59f3,Day 19 - Fri 9/13,5d419dd169948a72461d59dd,Unit2Schedule - SD22,false
-5d419dd169948a72461d5ac0,Midterm Project Setup,https://trello.com/c/a3TWGgYz/85-midterm-project-setup,,"Alex (sky), Rob (green)",,,0,,0,0,0,0,2019-07-31T13:55:30.053Z,5d419dd169948a72461d59f3,Day 19 - Fri 9/13,5d419dd169948a72461d59dd,Unit2Schedule - SD22,false
-5d419dd169948a72461d5ab6,Midterm Group Project,https://trello.com/c/Gqlyl1bi/80-midterm-group-project,,"Alex (sky), Rob (green)",,,0,,0,0,0,0,2019-07-31T13:55:30.135Z,5d419dd169948a72461d59f3,Day 19 - Fri 9/13,5d419dd169948a72461d59dd,Unit2Schedule - SD22,false
-5d419dd169948a72461d5ada,STAFF PLANNING DAY?! Nope.,https://trello.com/c/fsazJB9P/98-staff-planning-day-nope,,,,,0,,0,0,0,0,2019-07-31T13:55:29.793Z,5d419dd169948a72461d59f3,Day 19 - Fri 9/13,5d419dd169948a72461d59dd,Unit2Schedule - SD22,false
-5d419dd169948a72461d5aa2,Midterm Group Project,https://trello.com/c/EWVzW9ts/70-midterm-group-project,,"Alex (sky), Rob (green)",,,0,,0,0,0,0,2019-07-31T13:55:30.312Z,5d419dd169948a72461d59f4,Day 20 - Tue 7/16,5d419dd169948a72461d59dd,Unit2Schedule - SD22,false
-5d419dd169948a72461d5aa4,Midterm Group Project,https://trello.com/c/OKOIRixM/71-midterm-group-project,,"Alex (sky), Rob (green)",,,0,,0,0,0,0,2019-07-31T13:55:30.296Z,5d419dd169948a72461d59f5,Day 21 - Wed 7/17,5d419dd169948a72461d59dd,Unit2Schedule - SD22,false
-5d419dd169948a72461d5aa6,Midterm Group Project,https://trello.com/c/ZQtvHXkg/72-midterm-group-project,,"Alex (sky), Rob (green)",,,0,,0,0,0,0,2019-07-31T13:55:30.280Z,5d419dd169948a72461d59f6,Day 22 - Thu 7/18,5d419dd169948a72461d59dd,Unit2Schedule - SD22,false
-5d419dd169948a72461d5aa8,Midterm Group Project,https://trello.com/c/erbwhXjb/73-midterm-group-project,,"Alex (sky), Rob (green)",,,0,,0,0,0,0,2019-07-31T13:55:30.264Z,5d419dd169948a72461d59f7,Day 23 - Fri 7/19,5d419dd169948a72461d59dd,Unit2Schedule - SD22,false
-5d419dd169948a72461d5ae2,Midterm EC2 Deployment,https://trello.com/c/swzBNxmC/102-midterm-ec2-deployment,,,,,0,,0,0,0,0,2019-07-31T13:55:29.724Z,5d419dd169948a72461d59f7,Day 23 - Fri 7/19,5d419dd169948a72461d59dd,Unit2Schedule - SD22,false
-5d419dd169948a72461d5aaa,Midterm Group Project,https://trello.com/c/yIsktgU4/74-midterm-group-project,,"Alex (sky), Rob (green)",,,0,,0,0,0,0,2019-07-31T13:55:30.240Z,5d419dd169948a72461d59f8,Day 24 - Mon 7/22,5d419dd169948a72461d59dd,Unit2Schedule - SD22,false
-5d419dd169948a72461d5ae4,Midterm Hard Feature Freeze 12pm,https://trello.com/c/QG23MM6o/103-midterm-hard-feature-freeze-12pm,,,,,0,,0,0,0,0,2019-07-31T13:55:29.706Z,5d419dd169948a72461d59f8,Day 24 - Mon 7/22,5d419dd169948a72461d59dd,Unit2Schedule - SD22,false
-5d419dd169948a72461d5a72,Present Midterm Group Project,https://trello.com/c/RMUuwFG9/46-present-midterm-group-project,,Rob (green),,,0,,0,0,0,0,2019-07-31T13:55:30.854Z,5d419dd169948a72461d59f9,Day 25 - Tue 7/23,5d419dd169948a72461d59dd,Unit2Schedule - SD22,false
+* Database Server",Rob (green),,,0,,0,0,0,0,2019-09-11T20:13:16.029Z,5d419dd169948a72461d59f1,Day 17 - Wed 9/11,5d419dd169948a72461d59dd,Unit2Schedule - SD22,false
+5d419dd169948a72461d5aba,Midterm Project Pitch,https://trello.com/c/cgksKxR7/82-midterm-project-pitch,,"Denise (orange), Jeremy (purple), Rob (green)",,,0,,0,0,0,0,2019-09-26T20:05:35.944Z,5d419dd169948a72461d59f2,Day 18 - Thu 9/12,5d419dd169948a72461d59dd,Unit2Schedule - SD22,false
+5d419dd169948a72461d5ac0,Midterm Project Setup,https://trello.com/c/a3TWGgYz/85-midterm-project-setup,,"Jeremy (purple), Rob (green)",,,0,,0,0,0,0,2019-09-11T20:14:08.104Z,5d419dd169948a72461d59f2,Day 18 - Thu 9/12,5d419dd169948a72461d59dd,Unit2Schedule - SD22,false
+5d419dd169948a72461d5aae,Individual CRUD Project,https://trello.com/c/QW4lm0nR/76-individual-crud-project,"Convert single-table individual JPACRUDProject to multi-table in a git branch, merge to master with pull request.",Weekend Homework (blue),,,0,,0,0,0,0,2019-09-09T18:40:13.518Z,5d419dd169948a72461d59f2,Day 18 - Thu 9/12,5d419dd169948a72461d59dd,Unit2Schedule - SD22,true
+5d419dd169948a72461d5ab0,Git Branching,https://trello.com/c/46COiEKn/77-git-branching,,Rob (green),,,0,,0,0,0,0,2019-09-11T20:26:40.160Z,5d419dd169948a72461d59f2,Day 18 - Thu 9/12,5d419dd169948a72461d59dd,Unit2Schedule - SD22,false
+5d419dd169948a72461d5ab6,Midterm Group Project,https://trello.com/c/Gqlyl1bi/80-midterm-group-project,,"Jeremy (purple), Rob (green)",,,0,,0,0,0,0,2019-09-11T20:14:13.775Z,5d419dd169948a72461d59f2,Day 18 - Thu 9/12,5d419dd169948a72461d59dd,Unit2Schedule - SD22,false
+5d769cb6ee1ae804cd810827,Midterm Group Project,https://trello.com/c/gffihBdb/120-midterm-group-project,,,,,0,,0,0,0,0,2019-09-09T18:40:54.096Z,5d419dd169948a72461d59f3,Day 19 - Fri 9/13,5d419dd169948a72461d59dd,Unit2Schedule - SD22,false
+5d769ca0eb32854ecfe01579,Midterm Group Project,https://trello.com/c/rbDWWAiM/119-midterm-group-project,,,,,0,,0,0,0,0,2019-09-09T18:41:12.349Z,5d419dd169948a72461d59f3,Day 19 - Fri 9/13,5d419dd169948a72461d59dd,Unit2Schedule - SD22,true
+5d419dd169948a72461d5ada,STAFF PLANNING DAY?! Nope.,https://trello.com/c/fsazJB9P/98-staff-planning-day-nope,,,,,0,,0,0,0,0,2019-09-09T18:37:53.182Z,5d419dd169948a72461d59f3,Day 19 - Fri 9/13,5d419dd169948a72461d59dd,Unit2Schedule - SD22,true
+5d419dd169948a72461d5aa2,Midterm Group Project,https://trello.com/c/EWVzW9ts/70-midterm-group-project,,"Alex (sky), Rob (green)",,,0,,0,0,0,0,2019-07-31T13:55:30.312Z,5d419dd169948a72461d59f4,Day 20 - Mon 9/16,5d419dd169948a72461d59dd,Unit2Schedule - SD22,false
+5d419dd169948a72461d5aa4,Midterm Group Project,https://trello.com/c/OKOIRixM/71-midterm-group-project,,"Alex (sky), Rob (green)",,,0,,0,0,0,0,2019-07-31T13:55:30.296Z,5d419dd169948a72461d59f5,Day 21 - Tues 9/17,5d419dd169948a72461d59dd,Unit2Schedule - SD22,false
+5d419dd169948a72461d5aa6,Midterm Group Project,https://trello.com/c/ZQtvHXkg/72-midterm-group-project,,"Alex (sky), Rob (green)",,,0,,0,0,0,0,2019-07-31T13:55:30.280Z,5d419dd169948a72461d59f6,Day 22 - Wed 9/18,5d419dd169948a72461d59dd,Unit2Schedule - SD22,false
+5d419dd169948a72461d5aa8,Midterm Group Project,https://trello.com/c/erbwhXjb/73-midterm-group-project,,"Alex (sky), Rob (green)",,,0,,0,0,0,0,2019-07-31T13:55:30.264Z,5d419dd169948a72461d59f7,Day 23 - Thurs 9/19,5d419dd169948a72461d59dd,Unit2Schedule - SD22,false
+5d419dd169948a72461d5ae2,Midterm EC2 Deployment,https://trello.com/c/swzBNxmC/102-midterm-ec2-deployment,,,,,0,,0,0,0,0,2019-07-31T13:55:29.724Z,5d419dd169948a72461d59f7,Day 23 - Thurs 9/19,5d419dd169948a72461d59dd,Unit2Schedule - SD22,false
+5d419dd169948a72461d5aaa,Midterm Group Project,https://trello.com/c/yIsktgU4/74-midterm-group-project,,"Alex (sky), Rob (green)",,,0,,0,0,0,0,2019-07-31T13:55:30.240Z,5d419dd169948a72461d59f8,Day 24 - Fri 9/20,5d419dd169948a72461d59dd,Unit2Schedule - SD22,false
+5d419dd169948a72461d5ae4,Midterm Hard Feature Freeze 12pm,https://trello.com/c/QG23MM6o/103-midterm-hard-feature-freeze-12pm,,,,,0,,0,0,0,0,2019-07-31T13:55:29.706Z,5d419dd169948a72461d59f8,Day 24 - Fri 9/20,5d419dd169948a72461d59dd,Unit2Schedule - SD22,false
+5d419dd169948a72461d5a72,Present Midterm Group Project,https://trello.com/c/RMUuwFG9/46-present-midterm-group-project,,Rob (green),,,0,,0,0,0,0,2019-07-31T13:55:30.854Z,5d419dd169948a72461d59f9,Day 25 - Mon 9/23,5d419dd169948a72461d59dd,Unit2Schedule - SD22,false
