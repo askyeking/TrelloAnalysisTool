@@ -14,6 +14,7 @@ public class PostSteveApp {
 	
 	public void run() {
 		myTrelloDir.getAllCsvFiles();
+		
 	}
 
 }
