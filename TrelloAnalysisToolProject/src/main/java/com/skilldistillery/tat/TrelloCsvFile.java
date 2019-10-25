@@ -19,9 +19,12 @@ public class TrelloCsvFile {
 	// F i e l d s
 
 	private String fileName;
-	private int errorCount;
 	//TODO: add a pathname as a field and include it in the constructor. refactor the methods to reflect this. also get rid of setters
 	private String pathAndFileName;
+	private int errorCount;
+	private String startDate;
+	private String endDate;
+	
 	// C o n s t r u c t o r s
 
 	public TrelloCsvFile(String pathAndFileName) {
@@ -34,6 +37,14 @@ public class TrelloCsvFile {
 		return fileName;
 	}
 	
+	public String getStartDate() {
+		return startDate;
+	}
+
+	public String getEndDate() {
+		return endDate;
+	}
+
 	public void setFileName(String fileName) {
 		/*if we wanted to use the whole path name as the fileName, 
 		the user would have to type the path twice (once for the Directory 
