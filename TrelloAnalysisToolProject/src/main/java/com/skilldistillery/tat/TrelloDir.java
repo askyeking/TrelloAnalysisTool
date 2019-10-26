@@ -3,6 +3,8 @@ package com.skilldistillery.tat;
 import java.io.File;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 public class TrelloDir {
 
@@ -35,26 +37,30 @@ public class TrelloDir {
 		return result;
 	}
 
-	public List<TrelloCsvFile> getAllCsvFilesByMonth(String month) {
+	public List<Topic> getAllCsvFilesByMonth(String month) {
 		List<TrelloCsvFile> csvFiles = getAllCsvFiles();
-		List<TrelloCsvFile> filesByMonth = new ArrayList<TrelloCsvFile>();
+		List<Topic> topicsByMonth = new ArrayList<Topic>();
 		for (TrelloCsvFile csv : csvFiles) {
 			//stuff Emily did 10/24 AM
 			List<Topic> topics = csv.getTopics();
+			Pattern pitterPattern = Pattern.compile("\\s(\\d{1,2})[\\/]");
 			for (Topic topic : topics) {
-				if (topic.getDateStr().contains(month)) { 
-					// see https://www.geeksforgeeks.org/enummap-class-java-example/
-					//should we have an EnumMap class:
-					//public enum Month {Jan, Feb, Mar, Apr, May, ... }
-					// EnumMap<Month, String> monthMap = new EnumMap<Month, String>(Month.class)
-					// where String values for Jan (for example) are "1", "Jan", "January", etc
-					// we can then retrieve the key from the value given from the user.
-					filesByMonth.add(csv);
+				Matcher matcher = pitterPattern.matcher(topic.getDateStr());
+				String topicMonth;
+				if(matcher.find()) {
+					topicMonth = matcher.group(1);
+					if (topicMonth.equals(month)) {
+						topicsByMonth.add(topic);
+					}
 				}
+//				
 			}
-			//end stuff Emily did 10/24 AM
-//			if (csv.get)
+		
 		}
-		return filesByMonth;
+		return topicsByMonth;
+	}
+
+	public String getDirectoryPath() {
+		return directoryPath;
 	}
 }

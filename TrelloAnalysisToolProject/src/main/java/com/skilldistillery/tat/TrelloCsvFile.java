@@ -77,7 +77,7 @@ public class TrelloCsvFile {
 
 				Topic topic = new Topic(instructorList, date, topicName);
 				parsedTopics.add(topic);
-				System.out.println(topic);
+//				System.out.println(topic);
 //				System.out.println("Record No - " + csvRecord.getRecordNumber());
 //				System.out.println("---------------");
 //				System.out.println("Topic Name : " + topicName);
