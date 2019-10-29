@@ -41,7 +41,6 @@ public class TrelloDir {
 		List<TrelloCsvFile> csvFiles = getAllCsvFiles();
 		List<Topic> topicsByMonth = new ArrayList<Topic>();
 		for (TrelloCsvFile csv : csvFiles) {
-			//stuff Emily did 10/24 AM
 			List<Topic> topics = csv.getTopics();
 			Pattern pitterPattern = Pattern.compile("\\s(\\d{1,2})[\\/]");
 			for (Topic topic : topics) {
@@ -53,9 +52,7 @@ public class TrelloDir {
 						topicsByMonth.add(topic);
 					}
 				}
-//				
 			}
-		
 		}
 		return topicsByMonth;
 	}
