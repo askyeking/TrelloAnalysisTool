@@ -22,18 +22,20 @@ public class PostSteveApp {
 		System.out.println("What month would you like data for?");
 		System.out.println(myTrelloDir.getDirectoryPath());
 		String monthNumber = kb.next();
-		List<Topic> topicsForMonth = myTrelloDir.getAllCsvFilesByMonth(monthNumber);
+		List<Topic> topicsForMonth = myTrelloDir.getAllTopicsByMonth(monthNumber);
 //		System.out.println(topicsForMonth.size());
 //		for (Topic topic : topicsForMonth) {
 //			System.out.println(topic);
 //		}
-		Map<String, Integer> myTallyMap = new HashMap<String, Integer>();
-		for (Topic topic : topicsForMonth) {
-			for (String instructor : topic.getInstructors()) {
-				int count = myTallyMap.containsKey(instructor) ? myTallyMap.get(instructor) : 0;
-				myTallyMap.put(instructor, count + 1);
-			}
-		}
+//		Map<String, Integer> myTallyMap = new HashMap<String, Integer>();
+//		for (Topic topic : topicsForMonth) {
+//			for (String instructor : topic.getInstructors()) {
+//				int count = myTallyMap.containsKey(instructor) ? myTallyMap.get(instructor) : 0;
+//				myTallyMap.put(instructor, count + 1);
+//			}
+//		}
+		
+		Map<String, Integer> myTallyMap = myTrelloDir.getInstructorTopicTallyMapByMonth(monthNumber, topicsForMonth);
 		
 		
 		Set<String> s = myTallyMap.keySet();      

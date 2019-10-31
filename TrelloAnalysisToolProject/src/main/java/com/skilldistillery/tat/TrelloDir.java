@@ -2,7 +2,9 @@ package com.skilldistillery.tat;
 
 import java.io.File;
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
@@ -37,27 +39,37 @@ public class TrelloDir {
 		return result;
 	}
 
-	public List<Topic> getAllCsvFilesByMonth(String month) {
+	public List<Topic> getAllTopicsByMonth(String month) {
 		List<TrelloCsvFile> csvFiles = getAllCsvFiles();
 		List<Topic> topicsByMonth = new ArrayList<Topic>();
 		for (TrelloCsvFile csv : csvFiles) {
-			//stuff Emily did 10/24 AM
 			List<Topic> topics = csv.getTopics();
-			Pattern pitterPattern = Pattern.compile("\\s(\\d{1,2})[\\/]");
+			Pattern pitterPattern = Pattern.compile("\\s(\\d{1,2})[\\/]"); // finds month by number
 			for (Topic topic : topics) {
 				Matcher matcher = pitterPattern.matcher(topic.getDateStr());
 				String topicMonth;
-				if(matcher.find()) {
+				if (matcher.find()) {
 					topicMonth = matcher.group(1);
 					if (topicMonth.equals(month)) {
 						topicsByMonth.add(topic);
 					}
 				}
-//				
 			}
-		
+
 		}
 		return topicsByMonth;
+	}
+
+	public Map<String, Integer> getInstructorTopicTallyMapByMonth(String month, List<Topic> topics) {
+		// Some CSV files are missing some dates
+		Map<String, Integer> tallyMap = new HashMap<String, Integer>();
+		for (Topic topic : topics) {
+			for (String instructor : topic.getInstructors()) {
+				int count = tallyMap.containsKey(instructor) ? tallyMap.get(instructor) : 0;
+				tallyMap.put(instructor, count + 1);
+			}
+		}
+		return tallyMap;
 	}
 
 	public String getDirectoryPath() {

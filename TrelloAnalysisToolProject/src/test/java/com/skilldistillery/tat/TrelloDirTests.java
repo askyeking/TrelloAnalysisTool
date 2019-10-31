@@ -37,7 +37,7 @@ public class TrelloDirTests //
 	@Test
 	public void test_TrelloDir_returns_some_csv_files_PostSteve() //
 	{
-		TrelloDir myTrelloDir = new TrelloDir("postSteve/");
+		TrelloDir myTrelloDir = new TrelloDir("src/main/resources/postSteve/");
 		List<TrelloCsvFile> myCsvs = myTrelloDir.getAllCsvFiles();
 		assertNotNull(myCsvs);
 		assertTrue(myCsvs.size() > 0);
@@ -46,14 +46,14 @@ public class TrelloDirTests //
 	@Test
 	public void test_TrelloDir_returns_good_csv_files_PostSteve() //
 	{
-		TrelloDir myTrelloDir = new TrelloDir("postSteve/");
+		TrelloDir myTrelloDir = new TrelloDir("src/main/resources/postSteve/");
 		List<TrelloCsvFile> myCsvs = myTrelloDir.getAllCsvFiles();
 		
 		for (TrelloCsvFile myCsv : myCsvs) //
 		{
 			String csvName = myCsv.getFileName();
 			assertNotNull(csvName);
-			assertTrue(csvName.startsWith("postSteve/"));
+			assertTrue(csvName.startsWith("src/main/resources/postSteve/"));
 			assertTrue(csvName.endsWith(".csv"));
 			List<Topic> topics = myCsv.getTopics();
 			assertNotNull(topics);
