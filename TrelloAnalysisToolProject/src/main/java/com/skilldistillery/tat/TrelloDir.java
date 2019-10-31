@@ -55,7 +55,6 @@ public class TrelloDir {
 					}
 				}
 			}
-
 		}
 		return topicsByMonth;
 	}
