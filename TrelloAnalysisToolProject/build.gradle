@@ -21,8 +21,12 @@ repositories {
 dependencies {
     // This dependency is exported to consumers, that is to say found on their compile classpath.
     api 'org.apache.commons:commons-math3:3.6.1'
+<<<<<<< HEAD
     compile group: 'org.apache.commons', name: 'commons-csv', version: '1.7'
 
+=======
+	compile group: 'org.apache.commons', name: 'commons-csv', version: '1.7'
+>>>>>>> cb72e4d1995e66ca2318034cae82e79eb0c618e5
     // This dependency is used internally, and not exposed to consumers on their own compile classpath.
     implementation 'com.google.guava:guava:27.0.1-jre'
 

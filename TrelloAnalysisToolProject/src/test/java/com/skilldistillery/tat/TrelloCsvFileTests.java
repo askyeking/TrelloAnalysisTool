@@ -77,7 +77,7 @@ public class TrelloCsvFileTests //
 	@Test
 	public void test_trello_csv_file_constructor_returns_some_topics_PostSteve() //
 	{
-		TrelloCsvFile sd22Unit2 = new TrelloCsvFile("postSteve/SD22_Unit2.csv");
+		TrelloCsvFile sd22Unit2 = new TrelloCsvFile("src/main/resources/postSteve/SD22_Unit2.csv");
 		assertNotNull(sd22Unit2);
 		
 		List<Topic> topics = sd22Unit2.getTopics();
@@ -98,7 +98,7 @@ public class TrelloCsvFileTests //
 //		} 
 //		else
 //		{
-		TrelloCsvFile myCsvFile = new TrelloCsvFile("postSteve/SD22_Unit2.csv");
+		TrelloCsvFile myCsvFile = new TrelloCsvFile("src/main/resources/postSteve/SD22_Unit2.csv");
 		myTopics = myCsvFile.getTopics();
 //		}
 		assertNotNull(myCsvs);
@@ -118,7 +118,7 @@ public class TrelloCsvFileTests //
 		// refactor so that this method returns tallies from multiple files (3 or 4 files? maybe 5?)
 		List<TrelloCsvFile> myCsvs = myTrelloDir.getAllCsvFiles();
 		List<Topic> myTopics = null;
-		TrelloCsvFile myCsvFile = new TrelloCsvFile("postSteve/SD22_Unit2.csv");
+		TrelloCsvFile myCsvFile = new TrelloCsvFile("src/main/resources/postSteve/SD22_Unit2.csv");
 		myTopics = myCsvFile.getTopics();
 		Map<String,Integer> myTallyMap = myCsvFile.getInstructorTopicTallyMap(myCsvFile.getTopics());
 		System.out.println("*************************" + myTallyMap.size());

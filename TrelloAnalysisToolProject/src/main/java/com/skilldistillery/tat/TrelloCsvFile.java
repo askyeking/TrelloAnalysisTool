@@ -71,7 +71,7 @@ public class TrelloCsvFile {
 				// Accessing values by the names assigned to each column
 				String topicName = csvRecord.get("Card Name");
 				String instructors = csvRecord.get("Labels");
-				String[] instructorArray = instructors.split(", ");
+				String[] instructorArray = instructors.split("\\s\\([^\\)]+\\)[,]?");
 				List<String> instructorList = Arrays.asList(instructorArray);
 				String date = csvRecord.get("List Name");
 
