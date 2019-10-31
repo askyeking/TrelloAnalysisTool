@@ -34,16 +34,9 @@ public class PostSteveApp {
 //			}
 //		}
 
-//		Map<String, Integer> myTallyMap = myTrelloDir.getInstructorTopicTallyMapByMonth(monthNumber, topicsForMonth);
+		Map<String, Integer> myTallyMap = myTrelloDir.getInstructorTopicTallyMapByMonth(monthNumber, topicsForMonth);
 
-		Map<String, Integer> myTallyMap = new HashMap<String, Integer>();
-		for (Topic topic : topicsForMonth) {
-			for (String instructor : topic.getInstructors()) {
-				int count = myTallyMap.containsKey(instructor) ? myTallyMap.get(instructor) : 0;
-				myTallyMap.put(instructor, count + 1);
-			}
-		}
-
+		
 		Set<String> s = myTallyMap.keySet();
 		Iterator<String> it = s.iterator();
 
