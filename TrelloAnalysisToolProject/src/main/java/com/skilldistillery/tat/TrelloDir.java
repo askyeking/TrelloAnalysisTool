@@ -73,13 +73,15 @@ public class TrelloDir {
 		int count = 0;
 		for (Topic topic : topics) {
 			for (String instructor : topic.getInstructors()) {
-				if (instructorNames.contains(instructor)) {
+				System.out.println(instructor);
+				if (instructorNames.contains(instructor = instructor.trim())) {
 					int tally = tallyMap.containsKey(instructor) ? tallyMap.get(instructor) : 0;
 					tallyMap.put(instructor, tally + 1);
 					count++;
 				}
 			}
 		}
+		
 		tallyMap.put("totalTallies", count);
 		return tallyMap;
 	}
