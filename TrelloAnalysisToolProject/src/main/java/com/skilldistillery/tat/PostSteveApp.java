@@ -22,6 +22,7 @@ public class PostSteveApp {
 		System.out.println(myTrelloDir.getDirectoryPath());
 		String monthNumber = kb.next();
 		List<Topic> topicsForMonth = myTrelloDir.getAllTopicsByMonth(monthNumber);
+		
 
 		Map<String, Integer> myTallyMap = myTrelloDir.getInstructorTopicTallyMapByMonth(monthNumber, topicsForMonth);
 		
