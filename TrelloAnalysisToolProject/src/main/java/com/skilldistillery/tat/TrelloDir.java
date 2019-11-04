@@ -71,18 +71,27 @@ public class TrelloDir {
 		// Some CSV files are missing some dates
 		Map<String, Integer> tallyMap = new HashMap<String, Integer>();
 		int count = 0;
+		int midtermCount = 0;
+		int finalCount = 0;
 		for (Topic topic : topics) {
 			for (String instructor : topic.getInstructors()) {
-				System.out.println(instructor);
 				if (instructorNames.contains(instructor = instructor.trim())) {
 					int tally = tallyMap.containsKey(instructor) ? tallyMap.get(instructor) : 0;
+					// In trello, we use a single card for a full day of Midterm/Final
+					// In order to reflect the estimated amount of work for those cards
+					// We add 2 to the tally because they are effectively all day, but not quite the same
+					// as active lecture time 
+					if(topic.getTopicName().contains("Midterm") || topic.getTopicName().contains("Final")) {
+						tally+= 2;
+					}
 					tallyMap.put(instructor, tally + 1);
 					count++;
 				}
 			}
 		}
-		
 		tallyMap.put("totalTallies", count);
+		System.out.println("Midterm count: " + midtermCount);
+		System.out.println("Final count: " + finalCount);
 		return tallyMap;
 	}
 
