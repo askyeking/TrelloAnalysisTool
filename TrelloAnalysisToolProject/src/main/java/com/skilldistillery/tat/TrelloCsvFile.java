@@ -104,6 +104,7 @@ public class TrelloCsvFile {
 		}
 		return tallyMap;
 	}
+	
 	public Map<String, Integer> getInstructorTopicTallyMapByMonth(String month, List<Topic> topics) {
 		// Some CSV files are missing some dates
 		Map<String, Integer> tallyMap = new HashMap<String, Integer>();

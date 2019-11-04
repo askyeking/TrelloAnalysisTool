@@ -29,11 +29,15 @@ public class PostSteveApp {
 		
 		Set<String> s = myTallyMap.keySet();
 		Iterator<String> it = s.iterator();
-
+		int totalTallies = myTallyMap.get("totalTallies");
 		while (it.hasNext()) {
 			String key = it.next();
 			System.out.print("Key: " + key);
-			System.out.println(" Value: " + myTallyMap.get(key));
+			System.out.print("| Value: " + myTallyMap.get(key));
+			if(totalTallies > 0) {
+				System.out.print("| Percentage: " +  ((myTallyMap.get(key) * 100) / totalTallies ));
+			}
+			System.out.println();
 		}
 
 	}
