@@ -9,7 +9,11 @@ import java.util.Set;
 
 public class PostSteveApp {
 	// FIELDS
-	private TrelloDir myTrelloDir = new TrelloDir("src/main/resources/postSteve/");
+	/*
+	 * TODO For now, Directory is hardcoded, refactor so user can decide which to use (via Switch)
+	 */
+//	private TrelloDir myTrelloDir = new TrelloDir("src/main/resources/postSteve/");
+	private TrelloDir myTrelloDir = new TrelloDir("src/main/resources/");
 	Scanner kb = new Scanner(System.in);
 
 	public static void main(String[] args) {
@@ -21,9 +25,9 @@ public class PostSteveApp {
 		System.out.println("What month would you like data for?");
 		System.out.println(myTrelloDir.getDirectoryPath());
 		String monthNumber = kb.next();
+		
 		List<Topic> topicsForMonth = myTrelloDir.getAllTopicsByMonth(monthNumber);
 		
-
 		Map<String, Integer> myTallyMap = myTrelloDir.getInstructorTopicTallyMapByMonth(monthNumber, topicsForMonth);
 		
 		

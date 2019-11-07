@@ -1,0 +1,174 @@
+Card ID,Card Name,Card URL,Card Description,Labels,Members,Due Date,Attachment Count,Attachment Links,Checklist Item Total Count,Checklist Item Completed Count,Vote Count,Comment Count,Last Activity Date,List ID,List Name,Board ID,Board Name,Archived
+5cb751a665c0e40f385c22ae,Service Layer,https://trello.com/c/ix2KBK5i/47-service-layer,"Does not have a good place yet. Useful for REST and DTO's. Useful in general, but could confuse if thrown in with JPA.",,,,0,,0,0,0,0,2019-04-17T16:17:43.368Z,5cb751a665c0e40f385c2265,Icebox,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,false
+5cb751a665c0e40f385c22db,OCP/Final Mock,https://trello.com/c/cn1ooTiz/92-ocp-final-mock,,"Denise (orange), In Class (blue)",,,0,,0,0,0,0,2019-05-24T19:30:17.515Z,5cb751a665c0e40f385c2266,Day 1 - Mon 6/17,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,false
+5cb751a665c0e40f385c22dc,WebIntro,https://trello.com/c/taq6HtxU/93-webintro,,Alex (sky),,,0,,0,0,0,0,2019-06-11T18:57:20.238Z,5cb751a665c0e40f385c2266,Day 1 - Mon 6/17,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,false
+5cb751a665c0e40f385c22dd,HTML Basics,https://trello.com/c/fMxYFb0u/94-html-basics,,Alex (sky),,,0,,0,0,0,0,2019-05-24T19:29:54.178Z,5cb751a665c0e40f385c2266,Day 1 - Mon 6/17,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,false
+5cb751a665c0e40f385c22e2,HTML Self-study,https://trello.com/c/4QhaLG1c/99-html-self-study,,Alex (sky),,,0,,0,0,0,0,2019-05-24T19:30:39.902Z,5cb751a665c0e40f385c2266,Day 1 - Mon 6/17,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,false
+5cb751a665c0e40f385c22de,HTML Assessment,https://trello.com/c/hPXgfJJJ/95-html-assessment,,Alex (sky),,,0,,0,0,0,0,2019-05-24T19:30:48.114Z,5cb751a665c0e40f385c2266,Day 1 - Mon 6/17,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,false
+5ce5c81dcae1e103bb3f9dd3,HomeAdvisor Field Trip (5:00),https://trello.com/c/lkJ9LBlu/108-homeadvisor-field-trip-500,,In Class (blue),,,0,,0,0,0,0,2019-06-18T22:59:06.813Z,5cb751a665c0e40f385c2267,Day 2 - Tue 6/18,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,false
+5cb751a665c0e40f385c22df,CSS Basics (3:00),https://trello.com/c/vjoLYhRx/96-css-basics-300,,Paul (red),,,0,,0,0,0,0,2019-06-18T23:00:37.582Z,5cb751a665c0e40f385c2267,Day 2 - Tue 6/18,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,false
+5d096d0f7bf0ed53d5f5ca3f,CSS Self Study,https://trello.com/c/6n7cpVMx/114-css-self-study,,,,,0,,0,0,0,0,2019-06-18T23:00:31.457Z,5cb751a665c0e40f385c2267,Day 2 - Tue 6/18,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,false
+5cb751a665c0e40f385c22e0,CSS Assessment,https://trello.com/c/c3GwZwZd/97-css-assessment,,"Alex (sky), Paul (red)",,,0,,0,0,0,0,2019-06-18T22:58:21.810Z,5cb751a665c0e40f385c2268,Day 3 - Wed 6/19,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,false
+5cb751a665c0e40f385c22e4,Review CSS,https://trello.com/c/xkdOuaCa/101-review-css,,"Jeremy (purple), SKIP (black)",,,0,,0,0,0,0,2019-06-19T15:50:48.598Z,5cb751a665c0e40f385c2268,Day 3 - Wed 6/19,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,false
+5cb751a665c0e40f385c2283,Portfolio Site Project,https://trello.com/c/Hlp6zzxu/4-portfolio-site-project,Let's all use Bootstrap.,Alex (sky),,,0,,0,0,0,0,2019-05-24T19:40:06.699Z,5cb751a665c0e40f385c2268,Day 3 - Wed 6/19,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,false
+5cb751a665c0e40f385c2282,Bootstrap (1.5),https://trello.com/c/His5Sbs2/3-bootstrap-15,,Alex (sky),,,0,,0,0,0,0,2019-05-24T19:41:13.771Z,5cb751a665c0e40f385c2268,Day 3 - Wed 6/19,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,false
+5cb751a665c0e40f385c22e1,Create AWS Accounts,https://trello.com/c/G0Jgbptj/98-create-aws-accounts,"* Explain signup/verification.
+
+* Payment method (credit card).",Rob (green),,,0,,0,0,0,0,2019-06-18T22:58:36.478Z,5cb751a665c0e40f385c2268,Day 3 - Wed 6/19,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,false
+5cb751a665c0e40f385c2280,AWS Deployment,https://trello.com/c/16GoCsX3/1-aws-deployment,,Rob (green),,,0,,0,0,0,0,2019-04-17T16:17:42.641Z,5cb751a665c0e40f385c2268,Day 3 - Wed 6/19,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,false
+5cb751a665c0e40f385c2281,AWS Apache,https://trello.com/c/UXfJkAki/2-aws-apache,* At least 3 cycles of pushing site to server,Rob (green),,,0,,0,0,0,0,2019-04-17T16:17:43.855Z,5cb751a665c0e40f385c2268,Day 3 - Wed 6/19,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,false
+5cb751a665c0e40f385c2289,JavaWeb Intro,https://trello.com/c/bNGbT9ye/10-javaweb-intro,"Be sure to talk about Host vs Server. (This was a separate card before.)
+
+Talk about Web Container (Tomcat) and install in Eclipse.
+
+Write (together) a servlet to show `doGet` and `doPost`.","Alex (sky), Rob (green)",,,0,,0,0,0,0,2019-06-18T22:46:24.609Z,5cb751a665c0e40f385c2268,Day 3 - Wed 6/19,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,false
+5cb751a665c0e40f385c22b6,Portfolio Site Lab,https://trello.com/c/47Huq4Xb/55-portfolio-site-lab,,,,,0,,0,0,0,0,2019-05-22T13:46:46.119Z,5cb751a665c0e40f385c2268,Day 3 - Wed 6/19,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,false
+5cb751a665c0e40f385c2298,Intro to Databases,https://trello.com/c/4rp6DbGa/25-intro-to-databases,,Denise (orange),,,0,,0,0,0,0,2019-04-17T16:17:43.606Z,5cb751a665c0e40f385c2269,Day 4 - Thu 6/20,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,false
+5cb751a665c0e40f385c22b5,"MAMP Install, Sample DB",https://trello.com/c/zMCTcbyC/54-mamp-install-sample-db,,Denise (orange),,,0,,0,0,0,0,2019-04-17T16:17:43.290Z,5cb751a665c0e40f385c2269,Day 4 - Thu 6/20,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,false
+5cb751a665c0e40f385c2284,SQL - Basic Queries,https://trello.com/c/9q2tvpvM/5-sql-basic-queries,,Denise (orange),,,0,,0,0,0,0,2019-04-17T16:17:43.805Z,5cb751a665c0e40f385c2269,Day 4 - Thu 6/20,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,false
+5cb751a665c0e40f385c229a,SQL - Predicates and Functions,https://trello.com/c/pAPKuoZk/27-sql-predicates-and-functions,,Alex (sky),,,0,,0,0,0,0,2019-06-20T19:07:26.321Z,5cb751a665c0e40f385c2269,Day 4 - Thu 6/20,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,false
+5cb751a665c0e40f385c2295,Dependency Management - Maven (part of JDBCIntro),https://trello.com/c/lkJUVbTg/22-dependency-management-maven-part-of-jdbcintro,,Denise (orange),,,0,,0,0,0,0,2019-06-20T19:23:36.178Z,5cb751a665c0e40f385c2269,Day 4 - Thu 6/20,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,false
+5cb751a665c0e40f385c2299,JDBC Intro,https://trello.com/c/xTJHLfIE/26-jdbc-intro,,Denise (orange),,,0,,0,0,0,0,2019-06-20T19:23:34.326Z,5cb751a665c0e40f385c2269,Day 4 - Thu 6/20,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,false
+5cb751a665c0e40f385c2285,SQL1 - Basic Joins,https://trello.com/c/MNK8aJSK/6-sql1-basic-joins,,Denise (orange),,,0,,0,0,0,0,2019-04-17T16:17:43.795Z,5cb751a665c0e40f385c226a,Day 5 - Fri 6/21,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,false
+5cb751a665c0e40f385c229b,SQL1 - ORM Intro,https://trello.com/c/pzeObikP/28-sql1-orm-intro,,Denise (orange),,,0,,0,0,0,0,2019-04-17T16:17:43.576Z,5cb751a665c0e40f385c226a,Day 5 - Fri 6/21,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,false
+5cb751a665c0e40f385c22b7,Film Lister,https://trello.com/c/9nAcIMqc/56-film-lister,,Afternoon (lime),,,0,,0,0,0,0,2019-04-17T16:17:43.266Z,5cb751a665c0e40f385c226a,Day 5 - Fri 6/21,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,false
+5cb751a665c0e40f385c2286,SQL FilmQuery Command Line Homework,https://trello.com/c/LHZqeZXA/7-sql-filmquery-command-line-homework,,,,,0,,0,0,0,0,2019-04-17T16:17:43.786Z,5cb751a665c0e40f385c226a,Day 5 - Fri 6/21,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,false
+5cb751a665c0e40f385c22be,Dynamic Web Apps,https://trello.com/c/6cj8RTOj/63-dynamic-web-apps,"Lottery Lab at end - hit route, show 6 numbers.",Rob (green),,,0,,0,0,0,0,2019-05-24T19:47:00.579Z,5cb751a665c0e40f385c226b,Day 6 - Mon 6/24,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,false
+5cb751a665c0e40f385c22bc,Web Data (0:40 lecture),https://trello.com/c/KFRLLuoq/61-web-data-040-lecture,,Rob (green),,,0,,0,0,0,0,2019-05-24T19:47:07.470Z,5cb751a665c0e40f385c226b,Day 6 - Mon 6/24,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,false
+5cb751a665c0e40f385c228a,JSP Views,https://trello.com/c/VOOfYH1v/11-jsp-views,,Jeremy (purple),,,0,,0,0,0,0,2019-05-24T19:46:11.599Z,5cb751a665c0e40f385c226b,Day 6 - Mon 6/24,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,false
+5cb751a665c0e40f385c22af,Expression Language,https://trello.com/c/hBMnmaVg/48-expression-language,,Jeremy (purple),,,0,,0,0,0,0,2019-05-24T19:46:34.865Z,5cb751a665c0e40f385c226b,Day 6 - Mon 6/24,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,false
+5cb751a665c0e40f385c22c6,NameGenerator Review (1),https://trello.com/c/d8IVlbnM/71-namegenerator-review-1,,Rob (green),,,0,,0,0,0,0,2019-05-24T19:49:18.126Z,5cb751a665c0e40f385c226c,Day 7 - Tue 6/25,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,false
+5cb751a665c0e40f385c22b0,Tag Libraries,https://trello.com/c/E5RTyXEm/49-tag-libraries,,Rob (green),,,0,,0,0,0,0,2019-05-24T19:49:25.496Z,5cb751a665c0e40f385c226c,Day 7 - Tue 6/25,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,false
+5cb751a665c0e40f385c22bf,JSTL Stocks,https://trello.com/c/JKYV5TjE/64-jstl-stocks,,Afternoon (lime),,,0,,0,0,0,0,2019-04-17T16:17:43.165Z,5cb751a665c0e40f385c226c,Day 7 - Tue 6/25,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,false
+5cb751a665c0e40f385c22b9,DAO Pattern,https://trello.com/c/O6vXKneA/58-dao-pattern,,Denise (orange),,,0,,0,0,0,0,2019-05-24T19:48:41.143Z,5cb751a665c0e40f385c226c,Day 7 - Tue 6/25,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,false
+5cb751a665c0e40f385c22bd,DAOPatternPresidents (historydb),https://trello.com/c/qIp8LZSq/62-daopatternpresidents-historydb,"The `historydb` database, prerequisite for several later chapters, is installed as part of this.",In Class (blue),,,0,,0,0,0,0,2019-06-26T23:55:04.524Z,5cb751a665c0e40f385c226c,Day 7 - Tue 6/25,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,false
+5cb751a665c0e40f385c2287,Spring MVC Web,https://trello.com/c/JdHDcyoz/8-spring-mvc-web,,Alex (sky),,,0,,0,0,0,0,2019-05-24T19:48:57.650Z,5cb751a665c0e40f385c226c,Day 7 - Tue 6/25,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,false
+5cb751a665c0e40f385c22c4,Menu Quiz,https://trello.com/c/FUSEXYhS/69-menu-quiz,"1 hour quiz to make a command-line menu with three integer options, each of which will call a separate method. Code must handle invalid input with try/catch.",SKIP (black),,,0,,0,0,0,0,2019-05-22T13:48:23.720Z,5cb751a665c0e40f385c226c,Day 7 - Tue 6/25,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,false
+5cb751a665c0e40f385c228b,Handling Requests,https://trello.com/c/XenVtM4O/12-handling-requests,,Rob (green),,,0,,0,0,0,0,2019-05-24T19:49:44.313Z,5cb751a665c0e40f385c226d,Day 8 - Wed 6/26,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,false
+5cb751a665c0e40f385c228c,Advanced Request Handling,https://trello.com/c/aUL2bhhh/13-advanced-request-handling,,Rob (green),,,0,,0,0,0,0,2019-05-24T19:50:09.455Z,5cb751a665c0e40f385c226d,Day 8 - Wed 6/26,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,false
+5cb751a665c0e40f385c2296,Spring Tool Suite,https://trello.com/c/8yIYmfzv/23-spring-tool-suite,,Denise (orange),,,0,,0,0,0,0,2019-05-24T19:51:03.302Z,5cb751a665c0e40f385c226d,Day 8 - Wed 6/26,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,false
+5cb751a665c0e40f385c22e3,Servlet Quiz,https://trello.com/c/G7gDdtIp/100-servlet-quiz,,SKIP (black),,,0,,0,0,0,0,2019-05-22T13:48:45.439Z,5cb751a665c0e40f385c226d,Day 8 - Wed 6/26,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,false
+5cb751a665c0e40f385c2297,Dependency Management - Gradle,https://trello.com/c/2ZNWbg79/24-dependency-management-gradle,,Denise (orange),,,0,,0,0,0,0,2019-06-26T23:13:53.860Z,5cb751a665c0e40f385c226e,Day 9 - Thu 6/27,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,false
+5cb751a665c0e40f385c228e,Contexts and Objects,https://trello.com/c/uy33GiDZ/15-contexts-and-objects,"Discuss loading the XML File. This can more easily lead into Unit Testing, because Unit Testing uses its own Application Context with mock objects.",Rob (green),,,0,,0,0,0,0,2019-06-26T22:18:41.724Z,5cb751a665c0e40f385c226e,Day 9 - Thu 6/27,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,false
+5cb751a665c0e40f385c22c3,USStates Lab Review,https://trello.com/c/O38X91cC/68-usstates-lab-review,,Rob (green),,,0,,0,0,0,0,2019-06-26T23:16:26.786Z,5cb751a665c0e40f385c226e,Day 9 - Thu 6/27,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,false
+5cb751a665c0e40f385c228d,Unit Testing Spring MVC,https://trello.com/c/rPYbcRX8/14-unit-testing-spring-mvc,,Rob (green),,,0,,0,0,0,0,2019-06-27T16:46:49.808Z,5cb751a665c0e40f385c226e,Day 9 - Thu 6/27,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,false
+5cb751a665c0e40f385c2293,Validation,https://trello.com/c/RqY2pM2x/20-validation,,Jeremy (purple),,,0,,0,0,0,0,2019-05-24T19:56:47.365Z,5cb751a665c0e40f385c226e,Day 9 - Thu 6/27,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,false
+5d14fddbc6aee88833a2cc3b,Validation Lab,https://trello.com/c/U5Kzigll/115-validation-lab,,Jeremy (purple),,,0,,0,0,0,0,2019-06-27T17:33:25.123Z,5cb751a665c0e40f385c226e,Day 9 - Thu 6/27,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,false
+5cb751a665c0e40f385c22c0,MySQL Workbench,https://trello.com/c/1nV5xoWA/65-mysql-workbench,,Denise (orange),,,0,,0,0,0,0,2019-04-17T16:17:43.147Z,5cb751a665c0e40f385c226e,Day 9 - Thu 6/27,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,false
+5ce84b67df8ea02f23635b47,SD20 Final Project Presentation,https://trello.com/c/3D9OcRr7/109-sd20-final-project-presentation,,In Class (blue),,,0,,0,0,0,0,2019-06-27T16:40:18.735Z,5cb751a665c0e40f385c226e,Day 9 - Thu 6/27,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,false
+5cb751a665c0e40f385c229d,SQL2 - DML,https://trello.com/c/HKFG3yeC/30-sql2-dml,,Denise (orange),,,0,,0,0,0,0,2019-04-17T16:17:43.553Z,5cb751a665c0e40f385c226e,Day 9 - Thu 6/27,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,false
+5cb751a665c0e40f385c2290,SQL2 - JDBC - DML and Transactions,https://trello.com/c/DiZ4C9mk/17-sql2-jdbc-dml-and-transactions,,Denise (orange),,,0,,0,0,0,0,2019-04-17T16:17:43.686Z,5cb751a665c0e40f385c226f,Day 10 - Fri 6/28,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,false
+5cb751a665c0e40f385c2291,SQL2 - ORM for DML,https://trello.com/c/VSfNh6yO/18-sql2-orm-for-dml,,Denise (orange),,,0,,0,0,0,0,2019-04-17T16:17:43.676Z,5cb751a665c0e40f385c226f,Day 10 - Fri 6/28,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,false
+5cb751a665c0e40f385c22d5,SD18 Final Project Presentation,https://trello.com/c/B4vFk2Fz/86-sd18-final-project-presentation,,,,,0,,0,0,0,0,2019-06-27T17:33:39.455Z,5cb751a665c0e40f385c226f,Day 10 - Fri 6/28,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,true
+5cb751a665c0e40f385c2292,Spring MVC CRUD Film Site (weekend),https://trello.com/c/4DLsVZLy/19-spring-mvc-crud-film-site-weekend,,"Denise (orange), PAIR (sky), Weekend Homework (blue)",,,0,,0,0,0,0,2019-06-27T14:47:22.648Z,5cb751a665c0e40f385c226f,Day 10 - Fri 6/28,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,false
+5cb751a665c0e40f385c22ba,AWS EC2 MySQL,https://trello.com/c/Wgzb0gNT/59-aws-ec2-mysql,,Rob (green),,,0,,0,0,0,0,2019-04-17T16:17:43.228Z,5cb751a665c0e40f385c2270,Day 11 - Mon 7/1,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,false
+5cb751a665c0e40f385c2288,AWS EC2 Tomcat,https://trello.com/c/kmjKwQbe/9-aws-ec2-tomcat,,Rob (green),,,0,,0,0,0,0,2019-04-17T16:17:43.767Z,5cb751a665c0e40f385c2270,Day 11 - Mon 7/1,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,false
+5cb751a665c0e40f385c229c,Present Spring MVC Film Site (1),https://trello.com/c/Pmpe84UB/29-present-spring-mvc-film-site-1,,Rob (green),,,0,,0,0,0,0,2019-05-24T20:06:12.962Z,5cb751a665c0e40f385c2270,Day 11 - Mon 7/1,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,false
+5cb751a665c0e40f385c2294,Advanced Validation,https://trello.com/c/3zF8aQKu/21-advanced-validation,This involves custom messages and unit testing validation.,"Rob (green), SKIP (black)",,,0,,0,0,0,0,2019-05-24T20:06:46.045Z,5cb751a665c0e40f385c2270,Day 11 - Mon 7/1,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,false
+5cb751a665c0e40f385c22d4,Spring Boot,https://trello.com/c/ZDK2K2jO/85-spring-boot,,Rob (green),,,0,,0,0,0,0,2019-05-24T20:07:22.226Z,5cb751a665c0e40f385c2270,Day 11 - Mon 7/1,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,false
+5cb751a665c0e40f385c228f,Session,https://trello.com/c/9ejf3LiZ/16-session,,Alex (sky),,,0,,0,0,0,0,2019-05-24T20:07:45.896Z,5cb751a665c0e40f385c2270,Day 11 - Mon 7/1,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,false
+5cb751a665c0e40f385c22b8,Login Lab Project,https://trello.com/c/nq2z5Zmh/57-login-lab-project,,"PAIR (sky), SKIP (black)",,,0,,0,0,0,0,2019-07-01T20:52:26.088Z,5cb751a665c0e40f385c2270,Day 11 - Mon 7/1,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,false
+5ce8505a968c1455987f808a,SD20 Graduation,https://trello.com/c/AiHzJm4M/111-sd20-graduation,,,,,0,,0,0,0,0,2019-06-27T17:33:59.888Z,5cb751a665c0e40f385c2270,Day 11 - Mon 7/1,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,false
+5cb751a665c0e40f385c22a0,Introduction to the Java Persistence API,https://trello.com/c/xwl0a2gJ/33-introduction-to-the-java-persistence-api,,Denise (orange),,,0,,0,0,0,0,2019-07-01T20:59:35.366Z,5cb751a665c0e40f385c2270,Day 11 - Mon 7/1,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,false
+5cb751a665c0e40f385c22c5,Review - Login Lab,https://trello.com/c/bE1n2EGF/70-review-login-lab,,"SKIP (black), UNASSIGNED (black)",,,0,,0,0,0,0,2019-07-02T01:47:15.684Z,5cb751a665c0e40f385c2271,Day 12 - Tue 7/2,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,false
+5d1ab7573fd9071e289e8f48,Finish intro to JPA : EM and lab,https://trello.com/c/dz9ejk9T/117-finish-intro-to-jpa-em-and-lab,,Denise (orange),,,0,,0,0,0,0,2019-07-02T01:47:00.154Z,5cb751a665c0e40f385c2271,Day 12 - Tue 7/2,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,false
+5ce84f2bdba5b45e55a11e3d,SD20 Graduation,https://trello.com/c/ZGN0N650/110-sd20-graduation,,,,,0,,0,0,0,0,2019-06-27T15:12:59.871Z,5cb751a665c0e40f385c2271,Day 12 - Tue 7/2,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,true
+5d1a97ece349785c72327535,Introduction to the Java Persistence API,https://trello.com/c/rPMmTfBc/116-introduction-to-the-java-persistence-api,,Denise (orange),,,0,,0,0,0,0,2019-07-02T15:54:45.588Z,5cb751a665c0e40f385c2271,Day 12 - Tue 7/2,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,true
+5cb751a665c0e40f385c22bb,Testing with JPA,https://trello.com/c/BK13T59M/60-testing-with-jpa,,Denise (orange),,,0,,0,0,0,0,2019-07-01T20:53:20.575Z,5cb751a665c0e40f385c2271,Day 12 - Tue 7/2,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,false
+5cb751a665c0e40f385c22a4,Additional Mapping Annotations,https://trello.com/c/B6iH11vt/37-additional-mapping-annotations,"j-unit testing
+-@GeneratedValue
+-@Temporal
+-@Enum
+",Denise (orange),,,0,,0,0,0,0,2019-07-01T20:53:22.510Z,5cb751a665c0e40f385c2271,Day 12 - Tue 7/2,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,false
+5cb751a665c0e40f385c22a3,JPQL,https://trello.com/c/8OcUzGh8/36-jpql,"'-Basic Queries
+-Query Parameters
+
+",Jeremy (purple),,,0,,0,0,0,0,2019-07-02T01:44:43.058Z,5cb751a665c0e40f385c2271,Day 12 - Tue 7/2,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,false
+5cb751a665c0e40f385c22ac,CRUD with JPA (cont.),https://trello.com/c/GuIrtDoB/45-crud-with-jpa-cont,"'-Managed vs detached
+-PUT",Denise (orange),,,0,,0,0,0,0,2019-07-02T22:56:44.821Z,5cb751a665c0e40f385c2272,Day 13 - Wed 7/3,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,false
+5cb751a665c0e40f385c22a1,CRUD with JPA,https://trello.com/c/Ww2B3pJM/34-crud-with-jpa,"'-Transactions/Committing
+-POST
+-DELETE",Denise (orange),,,0,,0,0,0,0,2019-07-02T22:56:29.315Z,5cb751a665c0e40f385c2272,Day 13 - Wed 7/3,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,false
+5cb751a665c0e40f385c229f,SQL2 - DDL and Hands-On DB Design,https://trello.com/c/AByebuqo/32-sql2-ddl-and-hands-on-db-design,"* Walk through creating a state db and table.
+* Syntax - CREATE, ALTER, DROP.
+* In-class build of 4-5 personal project databases.",Rob (green),,,0,,0,0,0,0,2019-07-03T19:37:13.919Z,5cb751a665c0e40f385c2272,Day 13 - Wed 7/3,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,false
+5cb751a665c0e40f385c22c2,MySQL Workbench - Modeling,https://trello.com/c/H1JMg8v9/67-mysql-workbench-modeling,,Jeremy (purple),,,0,,0,0,0,0,2019-07-01T20:57:26.561Z,5cb751a665c0e40f385c2272,Day 13 - Wed 7/3,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,false
+5cb751a665c0e40f385c22a2,Spring Boot MVC/JPA Integration,https://trello.com/c/q82prKDc/35-spring-boot-mvc-jpa-integration,,Rob (green),,,0,,0,0,0,0,2019-07-02T22:57:11.998Z,5cb751a665c0e40f385c2272,Day 13 - Wed 7/3,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,false
+5cb751a665c0e40f385c22c1,AWS Deployment/Review,https://trello.com/c/Tgw87xH4/66-aws-deployment-review,"'- Create EC2 Instance (before class)
+- Walk through what is required locally/on aws to get applciation to run
+- discuss ssh and scp commands 
+- demonstrate scp of .war
+- demonstrate scp of .sql 
+- discuss persistence.xml/sql/user harmonization 
+
+- Review organizational process for creating a Spring MVC project
+- Wireframe a page, write controller route to serve view, add data to model, show data with jstl",Denise (orange),,,0,,0,0,0,0,2019-07-03T21:33:20.306Z,5cb751a665c0e40f385c2272,Day 13 - Wed 7/3,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,true
+5cba40f9867d711797d2f9e7,Testing with JPA,https://trello.com/c/xG826g79/104-testing-with-jpa,,Denise (orange),,,0,,0,0,0,0,2019-04-19T21:43:25.790Z,5cba40f9867d711797d2f9e5,Thu - July 4 Holiday,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,true
+5cba40f9867d711797d2f9e9,Additional Mapping Annotations,https://trello.com/c/ypAXXolL/106-additional-mapping-annotations,"j-unit testing
+-@GeneratedValue
+-@Temporal
+-@Enum
+",Denise (orange),,,0,,0,0,0,0,2019-04-19T21:43:32.606Z,5cba40f9867d711797d2f9e5,Thu - July 4 Holiday,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,true
+5cba40f9867d711797d2f9e8,JPQL,https://trello.com/c/QhW71R3d/105-jpql,"'-Basic Queries
+-Query Parameters
+
+",Denise (orange),,,0,,0,0,0,0,2019-04-19T21:43:28.942Z,5cba40f9867d711797d2f9e5,Thu - July 4 Holiday,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,true
+5cb751a665c0e40f385c22d2,SD18 Graduation,https://trello.com/c/Jfk6BIru/83-sd18-graduation,,,,,0,,0,0,0,0,2019-05-24T20:16:40.610Z,5cb751a665c0e40f385c2273,Day 14 - Mon 7/8,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,true
+5cb751a665c0e40f385c22da,Git Tutorial,https://trello.com/c/Lns7YJUO/91-git-tutorial,,SKIP (black),,,0,,0,0,0,0,2019-07-02T22:58:18.986Z,5cb751a665c0e40f385c2273,Day 14 - Mon 7/8,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,false
+5d1be3458b72c32d5d51c5be,AWS Deployment/Review,https://trello.com/c/ztwI5mBC/119-aws-deployment-review,"'- Create EC2 Instance (before class)
+- Walk through what is required locally/on aws to get applciation to run
+- discuss ssh and scp commands 
+- demonstrate scp of .war
+- demonstrate scp of .sql 
+- discuss persistence.xml/sql/user harmonization 
+
+- Review organizational process for creating a Spring MVC project
+- Wireframe a page, write controller route to serve view, add data to model, show data with jstl",Alex (sky),,,0,,0,0,0,0,2019-07-07T20:31:37.569Z,5cb751a665c0e40f385c2273,Day 14 - Mon 7/8,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,false
+5cb751a665c0e40f385c22cc,Present CRUD projects,https://trello.com/c/MFcVnBtY/77-present-crud-projects,,Denise (orange),,,0,,0,0,0,0,2019-07-02T22:59:00.997Z,5cb751a665c0e40f385c2273,Day 14 - Mon 7/8,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,false
+5d1be181e7c915618ada399d,Present JPACrudProject,https://trello.com/c/33nz3IyF/118-present-jpacrudproject,,Denise (orange),,,0,,0,0,0,0,2019-07-02T22:58:52.456Z,5cb751a665c0e40f385c2273,Day 14 - Mon 7/8,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,true
+5cb751a665c0e40f385c22b1,SQL2 - Outer Joins,https://trello.com/c/4mvLU64S/50-sql2-outer-joins,"Review of basic joins, add outer joins.",Denise (orange),,,0,,0,0,0,0,2019-07-01T20:55:35.539Z,5cb751a665c0e40f385c2273,Day 14 - Mon 7/8,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,false
+5cb751a665c0e40f385c22b2,SQL2 - Aggregate Functions,https://trello.com/c/84R271Bt/51-sql2-aggregate-functions,,Alex (sky),,,0,,0,0,0,0,2019-07-01T20:55:24.521Z,5cb751a665c0e40f385c2273,Day 14 - Mon 7/8,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,false
+5cb751a665c0e40f385c22b3,JPQL - Intermediate Queries,https://trello.com/c/P8WZHtDy/52-jpql-intermediate-queries,,Jeremy (purple),,,0,,0,0,0,0,2019-07-02T23:05:22.605Z,5cb751a665c0e40f385c2273,Day 14 - Mon 7/8,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,false
+5cb751a665c0e40f385c22b4,Individual Spring Boot JPA CRUD Project,https://trello.com/c/4P07P0uH/53-individual-spring-boot-jpa-crud-project,,Denise (orange),,,0,,0,0,0,0,2019-07-02T22:57:51.282Z,5cb751a665c0e40f385c2274,Day 15 - Tue 7/9,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,true
+5cb751a665c0e40f385c22ab,Intro to Relationships,https://trello.com/c/2PCzHoPm/44-intro-to-relationships,'-unidirectional vs. bi-directional,Denise (orange),,,0,,0,0,0,0,2019-07-02T23:08:51.703Z,5cb751a665c0e40f385c2274,Day 15 - Tue 7/9,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,false
+5cb751a665c0e40f385c22a5,'@OneToOne,https://trello.com/c/LSe0OjAF/38-onetoone,,Denise (orange),,,0,,0,0,0,0,2019-07-02T23:07:31.360Z,5cb751a665c0e40f385c2274,Day 15 - Tue 7/9,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,false
+5cb751a665c0e40f385c22a6,'@ManyToOne,https://trello.com/c/oCCYkNty/39-manytoone,,Denise (orange),,,0,,0,0,0,0,2019-07-02T23:07:38.268Z,5cb751a665c0e40f385c2274,Day 15 - Tue 7/9,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,false
+5cb751a665c0e40f385c22d7,'@ManyToOne Labs,https://trello.com/c/zyfslGXM/88-manytoone-labs,,Denise (orange),,,0,,0,0,0,0,2019-07-02T23:07:48.169Z,5cb751a665c0e40f385c2274,Day 15 - Tue 7/9,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,false
+5cb751a665c0e40f385c22d8,'@ManyToOne Lab Review,https://trello.com/c/O6t8GCtz/89-manytoone-lab-review,,Rob (green),,,0,,0,0,0,0,2019-07-09T17:43:04.217Z,5cb751a665c0e40f385c2274,Day 15 - Tue 7/9,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,false
+5cb751a665c0e40f385c22a7,'@ManyToMany,https://trello.com/c/GHl1RSoC/40-manytomany,,Rob (green),,,0,,0,0,0,0,2019-07-02T22:59:36.691Z,5cb751a665c0e40f385c2275,Day 16 - Wed 7/10,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,false
+5cb751a665c0e40f385c22a8,JPQL with relationships,https://trello.com/c/sZ0c1wos/41-jpql-with-relationships,"'-Eager vs Lazy
+-(n+1)",Rob (green),,,0,,0,0,0,0,2019-07-02T23:13:13.577Z,5cb751a665c0e40f385c2275,Day 16 - Wed 7/10,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,false
+5cb751a665c0e40f385c22a9,Additional JPA Mappings (AssociationClasses),https://trello.com/c/tSZDkJdg/42-additional-jpa-mappings-associationclasses,,Rob (green),,,0,,0,0,0,0,2019-07-10T21:51:20.671Z,5cb751a665c0e40f385c2275,Day 16 - Wed 7/10,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,false
+5cb751a665c0e40f385c22cf,Reading Assignment - Git Branching,https://trello.com/c/ed56YdRs/80-reading-assignment-git-branching,,Rob (green),,,0,,0,0,0,0,2019-07-02T22:59:43.564Z,5cb751a665c0e40f385c2275,Day 16 - Wed 7/10,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,false
+5cb751a665c0e40f385c22aa,CRUD with relationships,https://trello.com/c/jebeZg9y/43-crud-with-relationships,"'-Setting foreign keys
+-Managed vs detached
+-Cascading",Denise (orange),,,0,,0,0,0,0,2019-07-10T22:41:59.429Z,5cb751a665c0e40f385c2276,Day 17 - Thu 7/11,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,false
+5cb751a665c0e40f385c22e5,Home Advisor Field Trip - 8:30 - 12,https://trello.com/c/wA1e7avx/102-home-advisor-field-trip-830-12,,,,,0,,0,0,0,0,2019-04-19T21:57:46.016Z,5cb751a665c0e40f385c2276,Day 17 - Thu 7/11,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,true
+5cb751a665c0e40f385c22e6,CRUD with relationships review,https://trello.com/c/8t6AhrHf/103-crud-with-relationships-review,,Denise (orange),,,0,,0,0,0,0,2019-07-10T22:48:30.248Z,5cb751a665c0e40f385c2276,Day 17 - Thu 7/11,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,false
+5cb751a665c0e40f385c22ce,Git Branching,https://trello.com/c/2nJjK7TC/79-git-branching,,Rob (green),,,0,,0,0,0,0,2019-07-02T23:01:41.195Z,5cb751a665c0e40f385c2276,Day 17 - Thu 7/11,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,false
+5cb751a665c0e40f385c229e,SQL2 - Database Design Concepts - Relationships,https://trello.com/c/Zb7WJaPk/31-sql2-database-design-concepts-relationships,"ER Modeling
+
+`state_symbol` table
+
+* Normalization
+
+* Primary key, foreign key.
+
+* Constraints
+
+* Database Server",Rob (green),,,0,,0,0,0,1,2019-07-11T22:00:23.776Z,5cb751a665c0e40f385c2276,Day 17 - Thu 7/11,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,false
+5cb751a665c0e40f385c22d0,Individual CRUD Enhancement/Branching,https://trello.com/c/MlPyjI7j/81-individual-crud-enhancement-branching,,Denise (orange),,,0,,0,0,0,0,2019-07-11T22:46:29.913Z,5cb751a665c0e40f385c2277,Day 18 - Fri 7/12,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,false
+5cb751a665c0e40f385c22cd,Individual CRUD Project,https://trello.com/c/54zn5v2O/78-individual-crud-project,"Convert single-table individual JPACRUDProject to multi-table in a git branch, merge to master with pull request.",Weekend Homework (blue),,,0,,0,0,0,0,2019-05-24T21:03:08.488Z,5cb751a665c0e40f385c2277,Day 18 - Fri 7/12,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,false
+5cb751a665c0e40f385c22d6,Midterm Project Pitch,https://trello.com/c/YtqQqClx/87-midterm-project-pitch,,"Alex (sky), Rob (green)",,,0,,0,0,0,0,2019-07-11T16:53:01.362Z,5cb751a665c0e40f385c2278,Day 19 - Mon 7/15,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,false
+5cb751a665c0e40f385c22d9,Midterm Project Setup,https://trello.com/c/JeFvp1PO/90-midterm-project-setup,,"Alex (sky), Rob (green)",,,0,,0,0,0,0,2019-07-10T22:51:56.425Z,5cb751a665c0e40f385c2278,Day 19 - Mon 7/15,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,false
+5cb751a665c0e40f385c22d1,Midterm Group Project,https://trello.com/c/bvFiBgqh/82-midterm-group-project,,"Alex (sky), Rob (green)",,,0,,0,0,0,0,2019-05-24T21:50:04.331Z,5cb751a665c0e40f385c2278,Day 19 - Mon 7/15,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,false
+5cba4bff08e6d4015f451f16,STAFF PLANNING DAY?! Nope.,https://trello.com/c/vVx0Gjlt/107-staff-planning-day-nope,,,,,0,,0,0,0,0,2019-06-26T05:07:03.941Z,5cb751a665c0e40f385c2278,Day 19 - Mon 7/15,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,false
+5cb751a665c0e40f385c22c7,Midterm Group Project,https://trello.com/c/olq3ehYK/72-midterm-group-project,,"Alex (sky), Rob (green)",,,0,,0,0,0,0,2019-05-24T22:02:43.967Z,5cb751a665c0e40f385c2279,Day 20 - Tue 7/16,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,false
+5cb751a665c0e40f385c22d3,SD20 START,https://trello.com/c/EkFYVX9G/84-sd20-start,,,,,0,,0,0,0,0,2019-05-24T21:12:45.703Z,5cb751a665c0e40f385c227a,Day 21 - Wed 7/17,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,true
+5cb751a665c0e40f385c22c8,Midterm Group Project,https://trello.com/c/XDdvMugs/73-midterm-group-project,,"Alex (sky), Rob (green)",,,0,,0,0,0,0,2019-05-24T21:51:27.922Z,5cb751a665c0e40f385c227a,Day 21 - Wed 7/17,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,false
+5cb751a665c0e40f385c22c9,Midterm Group Project,https://trello.com/c/lPkbUa9T/74-midterm-group-project,,"Alex (sky), Rob (green)",,,0,,0,0,0,0,2019-05-24T21:51:32.905Z,5cb751a665c0e40f385c227b,Day 22 - Thu 7/18,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,false
+5cb751a665c0e40f385c22ca,Midterm Group Project,https://trello.com/c/UacV3CTK/75-midterm-group-project,,"Alex (sky), Rob (green)",,,0,,0,0,0,0,2019-05-24T21:51:38.363Z,5cb751a665c0e40f385c227c,Day 23 - Fri 7/19,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,false
+5ce86845183f238351031543,Midterm EC2 Deployment,https://trello.com/c/CjnvOHA8/112-midterm-ec2-deployment,,,,,0,,0,0,0,0,2019-07-18T21:43:33.414Z,5cb751a665c0e40f385c227c,Day 23 - Fri 7/19,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,false
+5cb751a665c0e40f385c22cb,Midterm Group Project,https://trello.com/c/IidTbfj6/76-midterm-group-project,,"Alex (sky), Rob (green)",,,0,,0,0,0,0,2019-05-24T21:51:44.663Z,5cb751a665c0e40f385c227d,Day 24 - Mon 7/22,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,false
+5ce86ac725c5c5291aa479c3,Midterm Hard Feature Freeze 12pm,https://trello.com/c/rQrFwd0E/113-midterm-hard-feature-freeze-12pm,,,,,0,,0,0,0,0,2019-05-24T22:05:59.410Z,5cb751a665c0e40f385c227d,Day 24 - Mon 7/22,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,false
+5cb751a665c0e40f385c22ad,Present Midterm Group Project,https://trello.com/c/wqxVkfoW/46-present-midterm-group-project,,Rob (green),,,0,,0,0,0,0,2019-05-24T22:07:18.218Z,5cb751a665c0e40f385c227e,Day 25 - Tue 7/23,5cb751a665c0e40f385c2264,Unit2Schedule - SD21,false

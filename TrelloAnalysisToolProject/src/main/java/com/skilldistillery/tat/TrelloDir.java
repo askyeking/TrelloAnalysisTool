@@ -1,6 +1,5 @@
 package com.skilldistillery.tat;
 
-import java.awt.Choice;
 import java.io.File;
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -69,7 +68,8 @@ public class TrelloDir {
 
 	public Map<String, Integer> getInstructorTopicTallyMapByMonth(String month, List<Topic> topics) {
 		// Some CSV files are missing some dates
-		Map<String, Integer> tallyMap = new HashMap<String, Integer>();
+		Map<String, Integer> tallyMap = new HashMap<String, Integer>(); // Where String = instructor name; Integer = how
+																		// many times they teach a topic
 		int count = 0;
 		int midtermCount = 0;
 		int finalCount = 0;
@@ -79,10 +79,11 @@ public class TrelloDir {
 					int tally = tallyMap.containsKey(instructor) ? tallyMap.get(instructor) : 0;
 					// In trello, we use a single card for a full day of Midterm/Final
 					// In order to reflect the estimated amount of work for those cards
-					// We add 2 to the tally because they are effectively all day, but not quite the same
-					// as active lecture time 
-					if(topic.getTopicName().contains("Midterm") || topic.getTopicName().contains("Final")) {
-						tally+= 2;
+					// We add 2 to the tally because they are effectively all day, but not quite the
+					// same
+					// as active lecture time
+					if (topic.getTopicName().contains("Midterm") || topic.getTopicName().contains("Final")) {
+						tally += 2;
 					}
 					tallyMap.put(instructor, tally + 1);
 					count++;
@@ -97,5 +98,20 @@ public class TrelloDir {
 
 	public String getDirectoryPath() {
 		return directoryPath;
+	}
+
+	public List<Topic> getAllTopics() {
+		// Get all topics from all of Directory's CSV files
+		List<Topic> directoryTopics = new ArrayList<Topic>();
+		List<TrelloCsvFile> directoryCSVs = getAllCsvFiles();
+		// Add CSV file's topics to directory's list of topics (for all CSV files)
+		for (TrelloCsvFile file : directoryCSVs) {
+			List<Topic> fileTopics = file.getTopics();
+			for (Topic topic : fileTopics) {
+				directoryTopics.add(topic);
+			}
+		}
+		return directoryTopics;
+
 	}
 }

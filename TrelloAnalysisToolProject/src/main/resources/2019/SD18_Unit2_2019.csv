@@ -1,0 +1,53 @@
+Card ID,Card Name,Card URL,Card Description,Labels,Members,Due Date,Attachment Count,Attachment Links,Checklist Item Total Count,Checklist Item Completed Count,Vote Count,Comment Count,Last Activity Date,List ID,List Name,Board ID,Board Name,Archived
+5bd34d4c09a9088e4f656c58,REVIEW???,https://trello.com/c/xK8ueV1z/94-review,,,,,0,,0,0,0,0,2019-01-02T19:12:00.463Z,5bd344454003fd17fa9e5441,Day 14 - Wed 1/2,5bd344454003fd17fa9e5432,Unit2Schedule - SD18,true
+5bd34e2956b41c16fe9b02c4,Individual CRUD Project,https://trello.com/c/Bw3Fm5pU/96-individual-crud-project,,,,,0,,0,0,0,0,2018-10-26T17:26:01.181Z,5bd344454003fd17fa9e5441,Day 14 - Wed 1/2,5bd344454003fd17fa9e5432,Unit2Schedule - SD18,false
+5bd344454003fd17fa9e547e,JPQL with relationships,https://trello.com/c/QmC3xeIo/49-jpql-with-relationships,"'-Eager vs Lazy
+-(n+1)",Rob (green),,,0,,0,0,0,0,2019-01-02T22:27:54.273Z,5bd344454003fd17fa9e5441,Day 14 - Wed 1/2,5bd344454003fd17fa9e5432,Unit2Schedule - SD18,false
+5bd344454003fd17fa9e549b,AWS Deployment/Review,https://trello.com/c/3862Axhy/78-aws-deployment-review,"'- Create EC2 Instance (before class)
+- Walk through what is required locally/on aws to get applciation to run
+- discuss ssh and scp commands 
+- demonstrate scp of .war
+- demonstrate scp of .sql 
+- discuss persistence.xml/sql/user harmonization 
+
+- Review organizational process for creating a Spring MVC project
+- Wireframe a page, write controller route to serve view, add data to model, show data with jstl",Rob (green),,,0,,0,0,0,0,2018-12-20T17:12:53.240Z,5bd344454003fd17fa9e5441,Day 14 - Wed 1/2,5bd344454003fd17fa9e5432,Unit2Schedule - SD18,false
+5bd344454003fd17fa9e54a9,Present CRUD projects,https://trello.com/c/q8dY58Ar/92-present-crud-projects,,Rob (green),,,0,,0,0,0,0,2018-12-20T17:13:01.111Z,5bd344454003fd17fa9e5441,Day 14 - Wed 1/2,5bd344454003fd17fa9e5432,Unit2Schedule - SD18,false
+5bd344454003fd17fa9e5481,Intro to Relationships,https://trello.com/c/p9airGdu/52-intro-to-relationships,'-unidirectional vs. bi-directional,Rob (green),,,0,,0,0,0,0,2019-01-02T15:23:43.707Z,5bd344454003fd17fa9e5441,Day 14 - Wed 1/2,5bd344454003fd17fa9e5432,Unit2Schedule - SD18,false
+5bd344454003fd17fa9e547b,'@OneToOne,https://trello.com/c/E6sehTjr/46-onetoone,,Rob (green),,,0,,0,0,0,0,2019-01-02T15:24:02.000Z,5bd344454003fd17fa9e5441,Day 14 - Wed 1/2,5bd344454003fd17fa9e5432,Unit2Schedule - SD18,false
+5bd344454003fd17fa9e547c,'@ManyToOne,https://trello.com/c/GWri1UEU/47-manytoone,,Rob (green),,,0,,0,0,0,0,2019-01-02T23:50:59.486Z,5bd344454003fd17fa9e5441,Day 14 - Wed 1/2,5bd344454003fd17fa9e5432,Unit2Schedule - SD18,false
+5bd34e009ff3d97e6578fa29,Individual CRUD Project,https://trello.com/c/h37gsCxH/95-individual-crud-project,,,,,0,,0,0,0,0,2018-10-26T17:30:07.483Z,5bd344454003fd17fa9e5442,Day 15 - Thu 1/3,5bd344454003fd17fa9e5432,Unit2Schedule - SD18,true
+5c2d4e70b25aed6f7ad237bd,'@ManyToOne Labs,https://trello.com/c/qy1sWZcz/107-manytoone-labs,,Rob (green),,,0,,0,0,0,0,2019-01-02T23:51:40.378Z,5bd344454003fd17fa9e5442,Day 15 - Thu 1/3,5bd344454003fd17fa9e5432,Unit2Schedule - SD18,false
+5c2d4e7e21ab6b76b2e25a91,'@ManyToOne Lab Review,https://trello.com/c/RFQrpEGl/108-manytoone-lab-review,,Rob (green),,,0,,0,0,0,0,2019-01-02T23:51:45.177Z,5bd344454003fd17fa9e5442,Day 15 - Thu 1/3,5bd344454003fd17fa9e5432,Unit2Schedule - SD18,false
+5bd344454003fd17fa9e547d,'@ManyToMany,https://trello.com/c/gyB7IHrj/48-manytomany,,Rob (green),,,0,,0,0,0,0,2019-01-03T17:35:56.847Z,5bd344454003fd17fa9e5442,Day 15 - Thu 1/3,5bd344454003fd17fa9e5432,Unit2Schedule - SD18,false
+5c2d5194c0905326fa0b7dfb,JPQL with Relationships,https://trello.com/c/p8KzgNqK/109-jpql-with-relationships,,Rob (green),,,0,,0,0,0,0,2019-01-03T00:06:17.395Z,5bd344454003fd17fa9e5442,Day 15 - Thu 1/3,5bd344454003fd17fa9e5432,Unit2Schedule - SD18,false
+5c2e5551c28f802299b05a94,Git Tutorial,https://trello.com/c/xO3AfhZT/111-git-tutorial,,,,,0,,0,0,0,0,2019-01-03T18:32:53.220Z,5bd344454003fd17fa9e5442,Day 15 - Thu 1/3,5bd344454003fd17fa9e5432,Unit2Schedule - SD18,false
+5bd344454003fd17fa9e5480,CRUD with relationships,https://trello.com/c/TzNJqgHN/51-crud-with-relationships,"'-Setting foreign keys
+-Managed vs detached
+-Cascading",Rob (green),,,0,,0,0,0,0,2019-01-03T00:07:45.302Z,5bd344454003fd17fa9e5443,Day 16 - Fri 1/4,5bd344454003fd17fa9e5432,Unit2Schedule - SD18,false
+5bd344454003fd17fa9e547f,Additional JPA Mappings (AssociationClasses),https://trello.com/c/0kEBZQZN/50-additional-jpa-mappings-associationclasses,,Rob (green),,,0,,0,0,0,0,2019-05-14T18:03:49.941Z,5bd344454003fd17fa9e5443,Day 16 - Fri 1/4,5bd344454003fd17fa9e5432,Unit2Schedule - SD18,false
+5bd34f655cdad717eff4efa5,Git Branching,https://trello.com/c/SfiGHdiI/97-git-branching,,Steve (pink),,,0,,0,0,0,0,2019-01-03T18:32:57.241Z,5bd344454003fd17fa9e5443,Day 16 - Fri 1/4,5bd344454003fd17fa9e5432,Unit2Schedule - SD18,false
+5bd34fb00b94a24d51fc9197,Individual CRUD Enhancement/Branching,https://trello.com/c/ngDG2kou/99-individual-crud-enhancement-branching,,,,,0,,0,0,0,0,2019-01-03T00:08:10.844Z,5bd344454003fd17fa9e5443,Day 16 - Fri 1/4,5bd344454003fd17fa9e5432,Unit2Schedule - SD18,false
+5bd3511227f413119a5708ae,SD19 START,https://trello.com/c/tSHMwtli/103-sd19-start,,,,,0,,0,0,0,0,2019-01-03T00:10:05.689Z,5bd344454003fd17fa9e5444,Day 17 - Mon 1/7,5bd344454003fd17fa9e5432,Unit2Schedule - SD18,false
+5bd34fe54e7003167fed1cde,Present CRUD Projects,https://trello.com/c/uTKZjPzR/101-present-crud-projects,,,,,0,,0,0,0,0,2018-10-26T17:33:27.999Z,5bd344454003fd17fa9e5444,Day 17 - Mon 1/7,5bd344454003fd17fa9e5432,Unit2Schedule - SD18,false
+5bd344454003fd17fa9e549a,Database Design,https://trello.com/c/eFbZnUNA/77-database-design,,,,,0,,0,0,0,0,2018-12-20T17:11:58.597Z,5bd344454003fd17fa9e5444,Day 17 - Mon 1/7,5bd344454003fd17fa9e5432,Unit2Schedule - SD18,true
+5bd344454003fd17fa9e5474,SQL2 - Database Design Concepts - Relationships,https://trello.com/c/MzFqfzH0/39-sql2-database-design-concepts-relationships,"ER Modeling
+
+* Normalization
+
+* Primary key, foreign key.
+
+* Constraints
+
+* Database Server",Denise (orange),,,0,,0,0,0,0,2019-01-03T00:10:11.932Z,5bd344454003fd17fa9e5444,Day 17 - Mon 1/7,5bd344454003fd17fa9e5432,Unit2Schedule - SD18,false
+5c2cd7ad71d84d5996c257dd,Midterm Project Pitch,https://trello.com/c/0EKKwSSJ/106-midterm-project-pitch,,,,,0,,0,0,0,0,2019-01-07T23:14:23.969Z,5bd344454003fd17fa9e5445,Day 18 - Tue 1/8,5bd344454003fd17fa9e5432,Unit2Schedule - SD18,false
+5c2d52cc2d30c86976596dfa,Midterm Project Setup,https://trello.com/c/pKIpSBYw/110-midterm-project-setup,,,,,0,,0,0,0,0,2019-01-07T23:14:25.757Z,5bd344454003fd17fa9e5445,Day 18 - Tue 1/8,5bd344454003fd17fa9e5432,Unit2Schedule - SD18,false
+5bd34fca5debcc820fd341c4,Midterm Group Project,https://trello.com/c/ZOcr8HRf/100-midterm-group-project,,,,,0,,0,0,0,0,2018-10-26T17:32:58.449Z,5bd344454003fd17fa9e5445,Day 18 - Tue 1/8,5bd344454003fd17fa9e5432,Unit2Schedule - SD18,false
+5bd344454003fd17fa9e5483,Midterm Group Project,https://trello.com/c/wnrDcozg/54-midterm-group-project,,,,,0,,0,0,0,0,2018-10-26T16:43:49.917Z,5bd344454003fd17fa9e5446,Day 19 - Wed 1/9,5bd344454003fd17fa9e5432,Unit2Schedule - SD18,false
+5bd344454003fd17fa9e54a3,Midterm Group Project,https://trello.com/c/ZInOTwXr/86-midterm-group-project,,,,,0,,0,0,0,0,2018-10-26T16:43:50.076Z,5bd344454003fd17fa9e5447,Day 20 - Thu 1/10,5bd344454003fd17fa9e5432,Unit2Schedule - SD18,false
+5bd344454003fd17fa9e54a4,Midterm Group Project,https://trello.com/c/9LWnX6RH/87-midterm-group-project,,,,,0,,0,0,0,0,2018-10-26T16:43:50.080Z,5bd344454003fd17fa9e5448,Day 21 - Fri 1/11,5bd344454003fd17fa9e5432,Unit2Schedule - SD18,false
+5bd344454003fd17fa9e54a5,Midterm Group Project,https://trello.com/c/9JHTrED5/88-midterm-group-project,,,,,0,,0,0,0,0,2018-10-26T16:43:50.085Z,5bd344454003fd17fa9e5449,Day 22 - Mon 1/14,5bd344454003fd17fa9e5432,Unit2Schedule - SD18,false
+5bd344454003fd17fa9e54a6,Midterm Group Project,https://trello.com/c/pPMjfqSk/89-midterm-group-project,,,,,0,,0,0,0,0,2018-10-26T16:43:50.089Z,5bd344454003fd17fa9e544a,Day 23 - Tue 1/15,5bd344454003fd17fa9e5432,Unit2Schedule - SD18,false
+5bd344454003fd17fa9e54a7,Midterm Group Project,https://trello.com/c/40fuxEXp/90-midterm-group-project,,,,,0,,0,0,0,0,2018-10-26T16:43:50.093Z,5bd344454003fd17fa9e544b,Day 24 - Wed 1/16,5bd344454003fd17fa9e5432,Unit2Schedule - SD18,false
+5bd3476003228916bd3103ca,Midterm Group Project,https://trello.com/c/XRoJVWkO/93-midterm-group-project,,,,,0,,0,0,0,0,2018-10-26T16:57:04.581Z,5bd344454003fd17fa9e544c,Day 25 - Thu 1/17,5bd344454003fd17fa9e5432,Unit2Schedule - SD18,false
+5bd344454003fd17fa9e5484,Present Midterm Group Project,https://trello.com/c/EsSc0ox4/55-present-midterm-group-project,,,,,0,,0,0,0,0,2018-10-26T16:56:55.042Z,5bd34754fdbe3c866969c455,Day 26 - Fri 1/18,5bd344454003fd17fa9e5432,Unit2Schedule - SD18,false
