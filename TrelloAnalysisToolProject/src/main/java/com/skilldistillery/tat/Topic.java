@@ -2,13 +2,29 @@ package com.skilldistillery.tat;
 
 import java.util.List;
 
+import javax.persistence.Column;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
+import javax.persistence.ManyToMany;
+
 public class Topic {
 
 	// F i e l d s
+	@Id
+	@GeneratedValue(strategy = GenerationType.IDENTITY)
+	private int id;
 	
+	@Column(name = "date_string")
 	private String dateStr; // This shouldn't be a String.
+	
+	@ManyToMany(mappedBy = "topicsList")
 	private List<String> instructors;
+	
+	@Column(name = "last_edit_date")
 	private String lastEditDate;
+	
+	@Column(name = "name")
 	private String topicName;
 	
 	// C o n s t r u c t o r
@@ -25,6 +41,7 @@ public class Topic {
 	}
 
 	// M e t h o d s
+	//TODO: write add/removes
 	
 	// ToDo: Definitely add gets.
 	// ToDo: Maybe add sets (maybe not).

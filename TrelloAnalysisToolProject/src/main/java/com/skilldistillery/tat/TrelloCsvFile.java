@@ -10,6 +10,11 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
+import javax.persistence.Column;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
+
 import org.apache.commons.csv.CSVFormat;
 import org.apache.commons.csv.CSVParser;
 import org.apache.commons.csv.CSVRecord;
@@ -17,13 +22,26 @@ import org.apache.commons.csv.CSVRecord;
 public class TrelloCsvFile {
 
 	// F i e l d s
-
+	
+	@Id
+	@GeneratedValue(strategy = GenerationType.IDENTITY)
+	private int id;
+	
+	@Column(name = "file_name")
 	private String fileName;
 	//TODO: add a pathname as a field and include it in the constructor. refactor the methods to reflect this. also get rid of setters
+	@Column(name = "path_and_file_name")
 	private String pathAndFileName;
+	
 	private int errorCount;
+	
+	@Column(name = "start_date")
 	private String startDate;
+	
+	@Column(name = "end_date")
 	private String endDate;
+	
+	private List<Topic> topicList;
 	
 	// C o n s t r u c t o r s
 
@@ -33,6 +51,9 @@ public class TrelloCsvFile {
 	}
 
 	// M e t h o d s
+	
+	//TODO: write add/remove methods
+	
 	public String getFileName() {
 		return fileName;
 	}
@@ -88,6 +109,7 @@ public class TrelloCsvFile {
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
+		
 
 		return parsedTopics;
 	}
